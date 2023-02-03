@@ -2,7 +2,7 @@
 var actividades = [
     {
         nombre: "Actividad 1",
-        fecha: new Date("2023-06-12"),
+        fecha: new Date("2023-06-13"),
         hora: false,
         descripcion: `
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
