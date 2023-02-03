@@ -2,7 +2,7 @@
 var actividades = [
     {
         nombre: "Actividad 1",
-        fecha: new Date("2022-06-12"),
+        fecha: new Date("2023-06-12"),
         descripcion: `
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
             standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make 
@@ -30,7 +30,7 @@ var actividades = [
 
     {
         nombre: "Actividad 3",
-        fecha: new Date(["2022-04-10", "17:30"]),
+        fecha: new Date(["2023-04-10", "17:30"]),
         descripcion: `
             There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in 
             some form, by injected humour, or randomised words which don't look even slightly believable. If you are going 

@@ -3,40 +3,7 @@
         
         <script src="js/jquery-3.6.3.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
-        <script>
-
-        $(function () {
-            // Grab the template script
-            var theTemplateScript = $("#example-template").html();
-          
-            // Compile the template
-            var theTemplate = Handlebars.compile(theTemplateScript);
-
-            var ordered_people = [ 
-                { firstName: 'Homer', lastName: 'Simpson', birth: new Date('1970-04-21') },
-                { firstName: 'Peter', lastName: 'Griffin', birth: new Date('1956-05-13') },
-                { firstName: 'Eric', lastName: 'Cartman', birth: new Date('1990-10-25') },
-                { firstName: 'Kenny', lastName: 'McCormick', birth: new Date('1970-04-22') },
-                { firstName: 'Bart', lastName: 'Simpson', birth: new Date('1999-04-21') }
-              ]
-
-            ordered_people.sort((a, b) => b.birth.getTime() - a.birth.getTime());
-
-            ordered_people.sort();
-
-          
-            // This is the default context, which is passed to the template
-            var context = {
-              people: ordered_people
-            };
-          
-            // Pass our data to the template
-            var theCompiledHtml = theTemplate(context);
-          
-            // Add the compiled html to the page
-            $(document.body).append(theCompiledHtml);
-          });
-        </script>
+        <script src="js/scripts.js" type="module"></script>
     </head>
 
 <body>
@@ -44,14 +11,25 @@
     <script id="example-template" type="text/x-handlebars-template">
 
     <!-- people is looked up on the global context, the one we pass to the compiled template -->
+
+    <h1>Próximas Actividades:</h1>
   
-    {{#each people}}
-  
-      <!-- Here the context is each individual person. So we can access its properties directly: -->
-      <p>{{firstName}} {{lastName}}</p>
+    {{#each actividadesPasadas}}
+
+      <h2>{{ nombre }}</h2>
+      <p>Tendrá lugar el {{ fecha }} </p>
+      <p>{{ descripcion }}</p> <br>
   
     {{/each}}
-  </script>
+
+    <h1>Actividades Finalizadas:</h1>
+    {{#each actividadesFuturas}}
+      <h2>{{ nombre }}</h2>
+      <p>Tendrá lugar el {{ fecha }} </p>
+      <p>{{ descripcion }}</p> <br>
+
+    {{/each}}
+    </script>
 
 
 </body>
