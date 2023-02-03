@@ -5,6 +5,7 @@
 */
 
 import { actividades } from "./model.js";
+import { dateString, timeString } from "./dates.js";
 
 $(function () {
     // Grab the template script
@@ -18,6 +19,14 @@ $(function () {
     var now = new Date();
 
     actividades.forEach(act => {
+        act["fechaCompleta"] = dateString(act.fecha)
+        /*act["dia"] = act.fecha.getDate()
+        act["mes"] = act.fecha.getMonth() + 1
+        act["año"] = act.fecha.getFullYear()*/
+        if (act["hora"]) {
+            act["horaCompleta"] = timeString(act.fecha)             
+        }
+
         if(act.fecha > now)
             actividadesPasadas.push(act)
         else
