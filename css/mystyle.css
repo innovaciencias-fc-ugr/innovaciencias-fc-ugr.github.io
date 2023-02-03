@@ -1,0 +1,17 @@
+nav {
+    background-color: #0e5781;
+}
+footer {
+    background-color: #0e5781;
+}
+
+#top-image {
+    padding: 0;
+    margin: 0;
+}
+
+.card-footer a {
+    background-color: #0e5781;
+    color: azure;
+    border-color: inherit;
+}
