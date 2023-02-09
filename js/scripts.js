@@ -65,7 +65,7 @@ $(function () {
     var theCompiledHtml = theTemplate(context);
   
     // Add the compiled html to the page
-    $("#actividadesFuturas").append(theCompiledHtml);
+    $("#tarjetasActividades").append(theCompiledHtml);
 
     $( 'button[id^="more-info-button"]' ).click(function () {
         let id = $(this).attr('id')
