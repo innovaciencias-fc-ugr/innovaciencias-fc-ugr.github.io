@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Web del grupo Innovaciencias. Universidad de Granada" />
+        <meta name="author" content="Juan Antonio Villegas" />
+        <title>Innovaciencias</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/img/logo-ciencias.jpeg" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/mystyle.css" rel="stylesheet" />
+        <!-- Include Handlebars from a CDN -->
+        <script src="js/jquery-3.6.3.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <script src="js/scripts.js" type="module"></script>
+    </head>
+    <body>
+        <header>
+            <img src="assets/img/portada-1.jpg" id="top-image" class="container-fluid">
+        </header>
+        
+        <!-- Responsive navbar-->
+        <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
+            <div class="container px-5">
+                <a class="navbar-brand" href="#!">Innovaciencias</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#link-inicio">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#tarjetasActividades">Actividades</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#link-quienes-somos">¿Quiénes somos?</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#link-contacto">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container px-4 px-lg-5" id="content">
+            <!-- Heading Row-->
+            <div class="row gx-4 gx-lg-5 align-items-center my-5">
+                <div class="col-lg-5"><img class="img-fluid rounded mb-4 mb-lg-0" src="https://media.istockphoto.com/id/452680217/photo/alhambra-in-winter.jpg?s=612x612&w=0&k=20&c=xmQDW-eeFofSQWwx503mcr7hfZrzRquooF06sb7rfVo=" alt="..." /></div>
+                <div class="col-lg-7">
+                    <h1 class="font-weight-light">INNOVACIENCIAS</h1>
+                    <h2>Equipo de Innovación Docente en Ciencias y Técnicas de la Facultad de Ciencias, Universidad de Granada.</h2>
+                    <!--<a class="btn btn-primary" href="#!">Call to Action!</a>-->
+                </div>
+            </div>
+            <h1 id="link-inicio">Inicio</h1>
+            <!-- Call to Action-->
+            <div class="card text-white my-5 py-4 text-center my-card-body shadow-lg p-3 mb-5 bg-body rounded">
+                <div class="card-body"><p class="text-white m-0">El proyecto Innova-Ciencias es un equipo docente de la Facultad de Ciencias aprobado por el Plan FIDO de la UCIP que surge como continuación y evolución de las acciones del mismo equipo docente desarrolladas en los tres cursos anteriores. Lo forman profesores de distintos centros, fundamentalmente de la Facultad de Ciencias y de las Escuelas de Ingeniería de la UGR. Bajo la filosofía del aprendizaje entre compañeros, tiene como objetivo la formación y mejora de las competencias docentes del profesorado compartiendo experiencias de éxito.  Se desarrolla a través de distintas actividades formativas tanto en forma de seminario como en forma de taller colaborativo, y se estructura a través de grupos focalizados según las diferentes temáticas de interés. Los seminarios y conferencias generales propuestos por los diferentes grupos de trabajo estarán abiertas a la participación de todos los colectivos interesados.</p></div>
+            </div>
+            <!-- Content Row-->
+            <section id="tarjetasActividades">
+                <script id="actividades"  type="text/x-handlebars-template">
+                    <h1>Próximas Actividades</h1>
+                    <div class="row gx-4 gx-lg-5">
+                        {{#each actividadesFuturas}}
+                        <div class="col-md-4 mb-5">
+                            <div class="card h-100 shadow-lg bg-body rounded">
+                                <div class="card-body">
+                                    <h3 class="card-title">{{nombre}}</h3>
+                                    {{#if ponente }}
+                                    <p><b>Ponente:</b> {{ponente}}</p>
+                                    {{/if}}
+                                    <p><b>Fecha:</b> {{ fechaCompleta }}</p>
+                                    {{#if hora }}
+                                        <p><b>Hora</b> {{ horaInicioCompleta }} - {{ horaFinCompleta }}</p>
+                                    {{ else }}
+                                        <p><b>Hora:</b> por confirmar</p>
+                                    {{/if}}
+                                    {{#if lugar}}
+                                    <p><b>Lugar:</b> {{lugar}}</p>
+                                    {{ else }}
+                                    <p><b>Lugar:</b> Por confirmar </p>
+                                    {{/if}}
+                                    {{#if descripcion}}
+                                    <p class="card-text" id="description-{{id}}">{{ descripcionCorta }}...</p>
+                                    {{/if}}
+                                </div>
+                                {{#if descripcion}}
+                                <div class="card-footer"><button class="btn btn-primary btn-sm" id="more-info-button-{{id}}" href="#!">Más</button></div>
+                                {{/if}}
+                            </div>
+                        </div>
+                        {{/each}}
+                    </div>
+                    <h1>Actividades Pasadas</h1>
+                    <div class="row gx-4 gx-lg-5">
+                        {{#each actividadesPasadas}}
+                        <div class="col-md-4 mb-5">
+                            <div class="card h-100 shadow-lg bg-body rounded">
+                                <div class="card-body">
+                                    <h3 class="card-title">{{nombre}}</h3>
+                                    {{#if ponente }}
+                                    <p><b>Ponente:</b> {{ponente}}</p>
+                                    {{/if}}
+                                    <p><b>Fecha:</b> {{ fechaCompleta }}</p>
+    
+                                    {{#if descripcion}}
+                                    <p class="card-text" id="description-{{id}}">{{ descripcionCorta }}...</p>
+                                    {{/if}}
+                                </div>
+                                {{#if descripcion}}
+                                <div class="card-footer"><button class="btn btn-primary btn-sm" id="more-info-button-{{id}}" href="#!">Más</button></div>
+                                {{/if}}
+                            </div>
+                        </div>
+                        {{/each}}
+                    </div>
+                </script>
+            </section>
+
+            <h1 id="link-quienes-somos">¿Quiénes somos?</h1>
+            Somos un grupo de profesores de la Facultad de Ciencias:<br><br>
+            <section class="list-group">
+                <article href="#" class="list-group-item" aria-current="true">
+                  <div class="d-flex w-100 justify-content-between">
+                    <h5 class="mb-1">Antonia María Delgado Amaro</h5>
+                  </div>
+                  <p class="mb-1">Departamento de Matemática Aplicada</p>
+                  <small>amdelgado@ugr.es</small>
+                </article>
+                <article href="#" class="list-group-item" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                      <h5 class="mb-1">Antonia María Delgado Amaro</h5>
+                    </div>
+                    <p class="mb-1">Departamento de Matemática Aplicada</p>
+                    <small>amdelgado@ugr.es</small>
+                  </article>
+                  <article href="#" class="list-group-item" aria-current="true">
+                    <div class="d-flex w-100 justify-content-between">
+                      <h5 class="mb-1">Antonia María Delgado Amaro</h5>
+                    </div>
+                    <p class="mb-1">Departamento de Matemática Aplicada</p>
+                    <small>amdelgado@ugr.es</small>
+                  </article>
+            </section>
+            <br>
+
+            <h1 id="link-contacto">Contacta con nosotros</h1>
+
+            Cualquier consulta y/o aclaración, contacte con <a href="mailto:amdelgado@ugr.es">amdelgado@ugr.es</a>
+            <br><br>
+
+        </div>
+        
+        <!-- Footer-->
+        <footer class="py-5">
+            <div class="container">
+                <div class="row">
+                  <div class="col">
+                    <a href="./referencias.html" class="m-0 text-center text-white">Referencias</a>
+                  </div>
+                  <div class="col">
+                    <p class="m-0 text-center text-white">Copyright &copy; Innovaciencias 2023</p>
+                  </div>
+                  <div class="col m-0 text-center text-white">
+                    Facultad de Ciencias de la Universidad de Granada 2023<br>
+                    Fuente Nueva s/n 18071 Granada 958 24 06 98/99
+                  </div>
+                </div>
+              </div>
+            <div class="container px-4 px-lg-5">
+                <div class="row">
+                    
+                </div>
+               
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <!--<script src="js/scripts.js"></script>-->
+    </body>
+</html>
