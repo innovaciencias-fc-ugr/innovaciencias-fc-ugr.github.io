@@ -32,7 +32,8 @@ function dateString(date) {
 }
 
 function timeString(time) {
-    return time.getHours() + ":" + time.getMinutes()
+    let minutes = time.getMinutes() < 10 ? "0" +  time.getMinutes() : time.getMinutes()
+    return time.getHours() + ":" + minutes
 }
 
 export {dateString, timeString}

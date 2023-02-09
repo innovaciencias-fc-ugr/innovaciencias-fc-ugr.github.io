@@ -17,15 +17,30 @@ $(function () {
     var actividadesPasadas = []
     var actividadesFuturas = []
     var now = new Date();
+    var actsIDs = 0;
 
     actividades.forEach(act => {
-        act["fechaCompleta"] = dateString(act.fecha)
-        /*act["dia"] = act.fecha.getDate()
-        act["mes"] = act.fecha.getMonth() + 1
-        act["año"] = act.fecha.getFullYear()*/
-        if (act["hora"]) {
-            act["horaCompleta"] = timeString(act.fecha)             
+        act["id"] = actsIDs
+        actsIDs += 1
+        let fechaStr = act.fecha
+        act["fecha"] = new Date(act.fecha)
+        act["hora"] = false
+
+        if(act.horaInicio != undefined){
+            act["hora"] = true
+
+            act["fecha"] = new Date([fechaStr, act.horaInicio])
+            console.log(act.fecha)
+
+            act["horaInicioCompleta"] = timeString(act["fecha"])
+            act["horaFinCompleta"] = timeString(new Date([fechaStr, act.horaFin]))
         }
+
+        act["fechaCompleta"] = dateString(act["fecha"])
+        if (act["descripcion"] != undefined && act["descripcion"].length > 1) 
+            act["descripcionCorta"] = act["descripcion"].substring(0,280)
+        else
+            act["descripcion"] = undefined
 
         if(act.fecha < now)
             actividadesPasadas.push(act)
@@ -51,5 +66,26 @@ $(function () {
   
     // Add the compiled html to the page
     $("#actividadesFuturas").append(theCompiledHtml);
+
+    $( 'button[id^="more-info-button"]' ).click(function () {
+        let id = $(this).attr('id')
+        let activityID = parseInt(id.substring(17,id.length))
+        let activity = actividades.find(act => act.id === activityID)
+        if(!activity["more"]) {
+            activity["more"] = true
+            $("#description-" + activityID).html(activity["descripcion"])
+            $(this).html("Menos")
+        }
+        else {
+            activity["more"] = false
+            $("#description-" + activityID).html(activity["descripcionCorta"])
+            $(this).html("Más")
+        }
+
+      });
+
+
   });
+
+
 
