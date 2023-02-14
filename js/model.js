@@ -19,7 +19,7 @@ var actividades = [
     },
 
     {
-        nombre: "¿Evaluamos lo que realmente importa? Diseño e implementación de evaluación auténtica en la enseñanza de Ciencia e Ingeniería",
+        nombre: "GRUPO 8: ¿Evaluamos lo que realmente importa? Diseño e implementación de evaluación auténtica en la enseñanza de Ciencia e Ingeniería",
         ponente: "Prof. María Romero González (Universidad de Queen Mary de Londres)",
         fecha: "2023-02-16",
         horaInicio: "12:00",
