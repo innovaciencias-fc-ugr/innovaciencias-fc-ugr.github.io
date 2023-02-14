@@ -38,6 +38,16 @@ var actividades = [
         `
     },
 
+    {
+        nombre: "GENERAL: Propuestas sobre docencia y su calidad en la UGR",
+        ponente: "Pedro Mercado Pacheco, ex-vicerrector de Política Institucional y Planificación",
+        fecha: "2023-02-15",
+        horaInicio: "17:00",
+        horaFin: "18:00",
+        lugar: "Aula B01",
+        descripcion: "En el actual marco de candidaturas a Rector, los candidatos están confeccionando el programa electoral con las propuestas de diferentes sectores. Es interesante que los componentes del equipo Innova Ciencias compartan sus inquietudes, propuestas u opiniones desde nuestras Facultades y Escuelas para mejorar el futuro de la Universidad."
+    }
+
 ]
 
 export { actividades }
