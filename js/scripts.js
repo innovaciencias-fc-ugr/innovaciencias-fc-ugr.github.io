@@ -23,17 +23,16 @@ $(function () {
         act["id"] = actsIDs
         actsIDs += 1
         let fechaStr = act.fecha
-        act["fecha"] = new Date(act.fecha)
+        act["fecha"] = new Date(Date.parse(act.fecha, "yyyy-MM-dd"))
         act["hora"] = false
 
         if(act.horaInicio != undefined){
             act["hora"] = true
-
-            act["fecha"] = new Date([fechaStr, act.horaInicio])
-            console.log(act.fecha)
+            act["fecha"] = new Date(Date.parse(fechaStr+"T"+act.horaInicio))
+            //console.log(act.fecha)
 
             act["horaInicioCompleta"] = timeString(act["fecha"])
-            act["horaFinCompleta"] = timeString(new Date([fechaStr, act.horaFin]))
+            act["horaFinCompleta"] = timeString(new Date(Date.parse(fechaStr+"T"+act.horaFin)))
         }
 
         act["fechaCompleta"] = dateString(act["fecha"])
