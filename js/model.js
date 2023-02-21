@@ -46,7 +46,18 @@ var actividades = [
         horaFin: "18:00",
         lugar: "Aula B01",
         descripcion: "En el actual marco de candidaturas a Rector, los candidatos están confeccionando el programa electoral con las propuestas de diferentes sectores. Es interesante que los componentes del equipo Innova Ciencias compartan sus inquietudes, propuestas u opiniones desde nuestras Facultades y Escuelas para mejorar el futuro de la Universidad."
+    },
+
+    {
+        nombre: "GRUPO 9: Innovación docente interdisciplinar a través del patrimonio histórico-artístico y, porqué no, divulgación.",
+        ponente: " Prof. José Juan Castro Torres (Departamento de Óptica, UGR)",
+        fecha: "2023-02-23",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "Aula A11",
+        descripcion: "En esta charla se hablará de un proyecto de innovación docente de carácter interdisciplinar (PID 13-38 y su renovación, 15-39), ya finalizado, en el que se unen la fotografía estereoscópica (a través del Grado en Óptica y Optometría) y el patrimonio histórico-artístico (a través de la Arquitectura, la Historia del Arte, la Historia del Derecho y las Bellas Artes). En este PID alumnos de diversos grados de la Universidad de Granada llevaron a cabo un trabajo colaborativo mediante la formación de grupos interdisciplinares estudiando y visitando un edificio o conjunto histórico-artístico de la ciudad de Granada, abordándolo desde diferentes disciplinas y usando la fotografía estereoscópica como nexo de unión entre dicho patrimonio y las distintas  disciplinas. También se mostrarán resultados de otras colaboraciones en las que se usa la fotografía estereoscópica para divulgar ciencia, pero también patrimonio. Para más información del Proyecto de Innovación Docente (libro sobre el proyecto que contiene anaglifos de Granada): http://hdl.handle.net/10481/53864"
     }
+
 
 ]
 
