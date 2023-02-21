@@ -71,6 +71,7 @@
             <section id="tarjetasActividades">
                 <script id="actividades"  type="text/x-handlebars-template">
                     <h1>Próximas Actividades</h1>
+                    {{#if hayActividades}}
                     <div class="row gx-4 gx-lg-5">
                         {{#each actividadesFuturas}}
                         <div class="col-md-6 mb-5">
@@ -103,6 +104,9 @@
                         </div>
                         {{/each}}
                     </div>
+                    {{ else }}
+                    <p>En este momento no hay actividades programadas.</p>
+                    {{/if}}
                     <h1>Actividades Pasadas</h1>
                     <div class="row gx-4 gx-lg-5">
                         {{#each actividadesPasadas}}
