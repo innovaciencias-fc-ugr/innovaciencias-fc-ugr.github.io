@@ -74,13 +74,15 @@ $(function () {
             activity["more"] = true
             $("#description-" + activityID).html(activity["descripcion"])
             $(this).html("Menos")
+            $("#card-body-" + activityID).css("height", "100%")
+            
         }
         else {
             activity["more"] = false
             $("#description-" + activityID).html(activity["descripcionCorta"])
             $(this).html("Más")
+            $("#card-body-" + activityID).css("height", "15em")
         }
-
       });
 
 

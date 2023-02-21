@@ -10,6 +10,10 @@ footer {
     background: linear-gradient(135deg, rgba(14,87,129,1) 0%, #5185a3 100%);
 }
 
+.past-card {
+    height: 15em;
+    overflow: hidden;
+}
 
 #top-image {
     padding: 0;
