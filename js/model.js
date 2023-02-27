@@ -64,8 +64,32 @@ var actividades = [
             También se mostrarán resultados de otras colaboraciones en las que se usa la fotografía estereoscópica para divulgar ciencia, pero 
             también patrimonio. Para más información del Proyecto de Innovación Docente (libro sobre el proyecto que contiene anaglifos de Granada):
             <a href="http://hdl.handle.net/10481/53864" target="_blank">http://hdl.handle.net/10481/53864</a>`
+    },
+
+    {
+        nombre: "GRUPO 2: Experiencias de aprendizaje colaborativo internacional en el contexto de ARQUS",
+        ponente: "Pedro Real Luna y Salvador Morales Ruano",
+        fecha: "2023-04-20",
+        horaInicio: "11:00",
+        horaFin: "12:30",
+        lugar: "Aula C32",
+        descripcion: "Ponencia sobre experiencias de aprendizaje colaborativo internacional, y posterior debate"
     }
 
+    /*
+    // Plantilla para proximas actividades
+    // No olvidar poner la coma despues de la última actividad publicada
+    {
+        nombre: "GRUPO X: <nombre>",
+        ponente: "",
+        fecha: "yyyy-mm-dd",
+        horaInicio: "HH:MM",
+        horaFin: "HH:MM",
+        lugar: "Aula 999",
+        descripcion: "<descripcion>"
+    }
+
+    */
 
 ]
 
