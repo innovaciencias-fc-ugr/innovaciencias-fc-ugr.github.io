@@ -34,8 +34,7 @@ var actividades = [
             recursos, veremos como diseñar e implementar la evaluación autentica a través de un estudio de caso en Ciencia y uno 
             en Ingeniería.  Por último, examinaremos los beneficios en términos de mejora de aprendizaje y desarrollo de 
             empleabilidad, investigación y desarrollo personal de los estudiantes y la necesidad de enfocar la evaluación de 
-            conocimiento en educación superior en lo que realmente es relevante para el futuro de los graduandos.
-        `
+            conocimiento en educación superior en lo que realmente es relevante para el futuro de los graduandos.`
     },
 
     {
