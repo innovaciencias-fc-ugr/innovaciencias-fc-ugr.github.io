@@ -45,7 +45,9 @@ var actividades = [
         horaInicio: "17:00",
         horaFin: "18:00",
         lugar: "Aula B01",
-        descripcion: "En el actual marco de candidaturas a Rector, los candidatos están confeccionando el programa electoral con las propuestas de diferentes sectores. Es interesante que los componentes del equipo Innova Ciencias compartan sus inquietudes, propuestas u opiniones desde nuestras Facultades y Escuelas para mejorar el futuro de la Universidad."
+        descripcion: `En el actual marco de candidaturas a Rector, los candidatos están confeccionando el programa electoral con las propuestas 
+            de diferentes sectores. Es interesante que los componentes del equipo Innova Ciencias compartan sus inquietudes, propuestas u opiniones 
+            desde nuestras Facultades y Escuelas para mejorar el futuro de la Universidad.`
     },
 
     {
