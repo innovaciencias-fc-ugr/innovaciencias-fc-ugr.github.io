@@ -75,6 +75,22 @@ var actividades = [
         horaFin: "12:30",
         lugar: "Aula C32",
         descripcion: "Ponencia sobre experiencias de aprendizaje colaborativo internacional, y posterior debate"
+    },
+
+    {
+        nombre: "GENERAL: Sesión Markdown",
+        ponente: "Pedro A. García Sánchez, Francisco Gómez",
+        fecha: "2023-05-04",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula-Inf 007",
+        descripcion: `- Introducción a markdown.
+        - Algunos ejemplos de conversión con pandoc.
+        - Transparencias con marp.
+        - Cómo usar markdown en Prado y en GitHub.
+        
+        La retransmitiremos también por sl.ugr.es/MeetPedro
+        Podéis llevar vuestro portátil, pero no es necesario. Os recomiendo instalar vscode (gratuito microsoft).`
     }
 
     /*
