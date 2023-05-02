@@ -86,7 +86,6 @@ var actividades = [
         lugar: "Aula-Inf 007",
         descripcion: `Introducción a markdown. Algunos ejemplos de conversión con pandoc. Transparencias con marp. Cómo usar markdown en Prado y en GitHub.
         
-        La retransmitiremos también por <a href="sl.ugr.es/MeetPedro">sl.ugr.es/MeetPedro</a>
         Podéis llevar vuestro portátil, pero no es necesario. Os recomiendo instalar vscode (gratuito microsoft).`
     }
 
