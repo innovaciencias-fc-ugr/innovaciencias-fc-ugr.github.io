@@ -70,10 +70,10 @@ var actividades = [
     {
         nombre: "GRUPO 2: Experiencias de aprendizaje colaborativo internacional en el contexto de ARQUS",
         ponente: "Pedro Real Luna y Salvador Morales Ruano",
-        fecha: "2023-04-20",
+        fecha: "2023-04-18",
         horaInicio: "11:00",
         horaFin: "12:30",
-        lugar: "Aula C32",
+        lugar: "Aula C11",
         descripcion: "Ponencia sobre experiencias de aprendizaje colaborativo internacional, y posterior debate"
     },
 
