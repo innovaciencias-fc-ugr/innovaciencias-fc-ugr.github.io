@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="author" content="Juan Antonio Villegas" />
+        <title>Test</title>
+        <script src="js/jquery-3.6.3.min.js"></script>
+        <script src="calendar-2/dist/zabuto_calendar.min.js"></script>
+        <link href="calendar-2/dist/zabuto_calendar.min.css" rel="stylesheet">
+
+    </head>
+    <body>
+
+
+        <div id="my-calendar"></div>
+
+        <script>
+
+        let now = new Date()
+
+        var settings = {
+            year: now.getFullYear(),
+            month: (now.getMonth() + 1),
+            // ar, az, ca, cn, cs, de, en
+            // es, fi, fr, he, hu, id, it
+            // jp, kr, nl, no, pl, pt, ru
+            // se, sk, sr, tr, ua
+            language: 'es',
+            /* {
+            "months" : {
+                "1":"Ionawr",
+                "2":"Chwefror",
+                "3":"Mawrth",
+                "4":"Ebrill",
+                "5":"Mai",
+                "6":"Mehefin",
+                "7":"Gorffennaf",
+                "8":"Awst",
+                "9":"Medi",
+                "10":"Hydref",
+                "11":"Tachwedd",
+                "12":"Rhagfyr"
+            },
+            "days" : {
+                "0":"Sul",
+                "1":"Llu",
+                "2":"Maw",
+                "3":"Mer",
+                "4":"Iau",
+                "5":"Gwe",
+                "6":"Sad"
+            }
+            }
+            */
+            translation: null,
+            week_starts: 'monday',
+            show_days: true,
+            classname: null,
+            header_format: '[month] [year]',
+            date_format: 'y-m-d',
+            navigation_prev: true,
+            navigation_next: true,
+            navigation_markup: {
+            prev: '&#9668;',
+            next: '&#9658;'
+            },
+            today_markup: null,
+            /* [
+            {
+                "date": "2019-01-02",
+                "classname": "event-black",
+                "markup": "<div class=\"diamond\"><div class=\"diamond-day\">[day]</div></div>"
+            },
+            {
+                "date": "2019-01-05",
+                "classname": "event-colourful"
+            },
+            {
+                "date": "2019-01-10",
+                "markup": "<div class=\"badge rounded-pill bg-success\">[day]></div>"
+            }
+            ]
+            */
+            events: null,
+
+            // ajax: 'example_data.php'
+            ajax: null,
+            
+        };
+
+        $(document).ready(function () {
+        $("#my-calendar").zabuto_calendar(settings);
+        });
+        </script>
+    </body>
+</html>
