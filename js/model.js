@@ -92,7 +92,7 @@ var actividades = [
     {
         nombre: "GRUPO 8: Evaluación del desempeño docente del profesorado mediante el Docentia-UGR",
         ponente: "Teresa Pozo, David Guerrero y Diego Pablo Ruiz. UCIP",
-        fecha: "2023-05-06",
+        fecha: "2023-06-06",
         horaInicio: "12:30",
         horaFin: "13:30",
         lugar: "Aula A12",
