@@ -87,7 +87,18 @@ var actividades = [
         descripcion: `Introducción a markdown. Algunos ejemplos de conversión con pandoc. Transparencias con marp. Cómo usar markdown en Prado y en GitHub.
         
         Podéis llevar vuestro portátil, pero no es necesario. Os recomiendo instalar vscode (gratuito microsoft).`
+    },
+
+    {
+        nombre: "GRUPO 8: Evaluación del desempeño docente del profesorado mediante el Docentia-UGR",
+        ponente: "Teresa Pozo, David Guerrero y Diego Pablo Ruiz. UCIP",
+        fecha: "2023-05-06",
+        horaInicio: "12:30",
+        horaFin: "13:30",
+        lugar: "Aula A12",
+        descripcion: `En la charla se presentará el modelo Docentia-UGR y la aplicación informática puesta en marcha por la universidad para la evaluación del profesorado. Se realizará con un enfoque práctico, presentando el modelo vigente, qué tipo de méritos se valoran, y cómo se utiliza la aplicación informática.`
     }
+
 
     /*
     // Plantilla para proximas actividades
