@@ -37,7 +37,7 @@ $(function () {
 
         act["fechaCompleta"] = dateString(act["fecha"])
         if (act["descripcion"] != undefined && act["descripcion"].length > 1) 
-            act["descripcionCorta"] = act["descripcion"].substring(0,280)
+            act["descripcionCorta"] = act["descripcion"].substring(0,300)
         else
             act["descripcion"] = undefined
 

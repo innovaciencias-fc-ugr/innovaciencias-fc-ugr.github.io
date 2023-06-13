@@ -97,6 +97,18 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula A12",
         descripcion: `En la charla se presentará el modelo Docentia-UGR y la aplicación informática puesta en marcha por la universidad para la evaluación del profesorado. Se realizará con un enfoque práctico, presentando el modelo vigente, qué tipo de méritos se valoran, y cómo se utiliza la aplicación informática.`
+    },
+
+    {
+        nombre: "GRUPO 7: Consejos y experiencia en la aplicación de un escape room en la docencia universitaria",
+        ponente: "Jose Luis Gómez Urquiza",
+        fecha: "2023-06-13",
+        horaInicio: "15:00",
+        horaFin: "16:00",
+        lugar: "Online: https://meet.google.com/rvi-oocm-cny",
+        descripcion: `Se expondrán experiencias y aprendizajes tras varios años realizando escape rooms como método de evaluación docente en la universidad así como las necesidades de material y planificación.
+        
+        <a href="https://meet.google.com/rvi-oocm-cny">Enlace para la sala Meet</a>`
     }
 
 
