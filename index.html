@@ -93,6 +93,9 @@
                                     {{ else }}
                                     <p><b>Lugar:</b> Por confirmar </p>
                                     {{/if}}
+                                    {{#if salaOnline}}
+                                    <p><b>Enlace a retransmisión:</b> <a href="{{salaOnline}}">{{salaOnline}}</a></p>
+                                    {{/if}}
                                     {{#if descripcion}}
                                     <p class="card-text" id="description-{{id}}">{{ descripcionCorta }}...</p>
                                     {{/if}}
