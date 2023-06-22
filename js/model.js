@@ -106,9 +106,7 @@ var actividades = [
         horaInicio: "15:00",
         horaFin: "16:00",
         lugar: "Online: https://meet.google.com/rvi-oocm-cny",
-        descripcion: `Se expondrán experiencias y aprendizajes tras varios años realizando escape rooms como método de evaluación docente en la universidad así como las necesidades de material y planificación.
-        
-        <a href="https://meet.google.com/rvi-oocm-cny">Enlace para la sala Meet</a>`
+        descripcion: `Se expondrán experiencias y aprendizajes tras varios años realizando escape rooms como método de evaluación docente en la universidad así como las necesidades de material y planificación.`
 
 
     },
