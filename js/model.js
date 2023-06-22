@@ -109,6 +109,30 @@ var actividades = [
         descripcion: `Se expondrán experiencias y aprendizajes tras varios años realizando escape rooms como método de evaluación docente en la universidad así como las necesidades de material y planificación.
         
         <a href="https://meet.google.com/rvi-oocm-cny">Enlace para la sala Meet</a>`
+
+
+    },
+
+    {
+        nombre: "GRUPO 3: Experiencias con Talleres y H5P en PRADO",
+        ponente: "Sonia Rodríguez, Pedro A. García, Eloisa Ramos y María Hernández",
+        fecha: "2023-06-26",
+        horaInicio: "10:00",
+        horaFin: "11:15",
+        lugar: "Aula A23",
+        salaOnline: "https://meet.google.com/vbp-zbzf-byc",
+        descripcion: `Presentación de una gran variedad de aplicaciones H5P y Talleres en PRADO en el ámbito docente. Ventajas y desventajas de dichas aplicaciones según el campo de conocimiento donde se aplican.`
+    },
+
+    {
+        nombre: "GENERAL: Introducción a la programación y diseño web",
+        ponente: "Juan Antonio Villegas",
+        fecha: "2023-06-26",
+        horaInicio: "11:30",
+        horaFin: "12:15",
+        lugar: "Aula A23",
+        salaOnline: "https://meet.google.com/vbp-zbzf-byc",
+        descripcion: `Breve introducción a los principales conceptos, analogías y diferencias del diseño y la programación web, con énfasis en esta última. Se hablará también sobre el desarrollo y las herramientas utilizadas en la creación de la web del grupo Innovaciencias.`
     }
 
 
