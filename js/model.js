@@ -107,8 +107,6 @@ var actividades = [
         horaFin: "16:00",
         lugar: "Online: https://meet.google.com/rvi-oocm-cny",
         descripcion: `Se expondrán experiencias y aprendizajes tras varios años realizando escape rooms como método de evaluación docente en la universidad así como las necesidades de material y planificación.`
-
-
     },
 
     {
@@ -128,7 +126,7 @@ var actividades = [
         fecha: "2023-06-26",
         horaInicio: "11:30",
         horaFin: "12:15",
-        lugar: "Aula A23",
+        lugar: "Aula A25",
         salaOnline: "https://meet.google.com/vbp-zbzf-byc",
         descripcion: `Breve introducción a los principales conceptos, analogías y diferencias del diseño y la programación web, con énfasis en esta última. Se hablará también sobre el desarrollo y las herramientas utilizadas en la creación de la web del grupo Innovaciencias.`
     }
