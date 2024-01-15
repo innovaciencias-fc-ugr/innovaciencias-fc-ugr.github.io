@@ -1,0 +1,24 @@
+
+.polaroid-card {
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.2s;
+    filter: grayscale(100%);
+    width: 100%;
+  }
+
+.polaroid-card img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.polaroid-card:hover {
+    transform: scale(1.05);
+    filter: none;
+}
+
+#grupos a {
+    text-decoration: none;
+    color: inherit;
+}
