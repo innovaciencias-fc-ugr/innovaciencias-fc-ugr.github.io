@@ -257,8 +257,77 @@ var actividades = [
         horaFin: "14:30",
         lugar: "Aula de Audiovisuales",
         descripcion: "Variables que se valoran dentro del programa Docentia de la UGR, y evidencias en las que se sustenta la evaluación de la calidad de la docencia del profesorado. Estudio y reflexión sobre el proceso de acreditación de cuerpos docentes del profesorado y la cumplimentación de méritos necesarios para ello."
-    }
+    },
 
+    {
+        nombre: "Formación inicial: Cuerpo y voz: dos instrumentos al servicio de la docencia, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Alicia Sierra Gómez",
+        fecha: "2024-04-03",
+        horaInicio: "09:30",
+        horaFin: "11:00",
+        lugar: "Aula de Audiovisuales",
+        descripcion: "Técnicas de comunicación, lenguajes verbal y no verbal, vocalización y proyección de voz; herramientas de PNL en el ámbito docente."
+    },
+
+    {
+        nombre: "Formación inicial: Expresión corporal y transmisión de conocimientos, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Alicia Sierra Gómez",
+        fecha: "2024-04-04",
+        horaInicio: "09:30",
+        horaFin: "11:00",
+        lugar: "Aula de Audiovisuales",
+        descripcion: "Herramientas teatrales en el ámbito docente."
+    },
+
+    {
+        nombre: "Formación inicial: Recursos motivacionales, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Esther Viseras Alarcón, Departamento de Genética.",
+        fecha: "2024-05-21",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Sala de Juntas",
+        descripcion: "Factores que influyen en la motivación, trabajo colaborativo, prevención y resolución de conflictos."
+    },
+
+    {
+        nombre: "Formación inicial: Diseño de recursos interactivos de apoyo a la docencia, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
+        fecha: "2024-05-13",
+        horaInicio: "10:30",
+        horaFin: "13:00",
+        lugar: "Aula InfO-09",
+        descripcion: "Creación de contenidos digitales interactivos de calidad, manejo de eXeLearning."
+    },
+
+    {
+        nombre: "Formación inicial: Creación de materiales docentes con H5P, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
+        fecha: "2024-06-17",
+        horaInicio: "10:30",
+        horaFin: "13:00",
+        lugar: "Aula InfO-09",
+        descripcion: "Introducción a nuestros noveles en el uso de la herramienta."
+    },
+
+    {
+        nombre: "Formación inicial: Creación de vídeos docentes con Kaltura, perteneciente al taller de Herramientas de Gestión del Aula.",
+        ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
+        fecha: "2024-06-20",
+        horaInicio: "10:30",
+        horaFin: "13:00",
+        lugar: "Aula InfO-09",
+        descripcion: "Breve introducción al uso de la herramienta."
+    },
+
+    {
+        nombre: "Formación inicial: Herramientas para la elaboración rápida de materiales docentes, perteneciente al taller de Aportaciones Formativas de Profesores Noveles.",
+        ponente: "Juan Antonio Villegas Recio,  Departamento de Matemática Aplicada",
+        fecha: "2024-06-14",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula A-10",
+        descripcion: "Introducción a utilidades y lenguajes informáticos de fácil aplicación para la docencia."
+    }
 
     /*
     // Plantilla para proximas actividades
