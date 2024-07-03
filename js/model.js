@@ -1,6 +1,7 @@
 var actividades = [
     {
-        nombre: "GRUPO 9: Presentación de la actividad del grupo de Proyectos Interdisciplinares",
+        nombre: "Presentación de la actividad del grupo de Proyectos Interdisciplinares", 
+        grupo: "GRUPO 9",
         fecha: "2023-02-01",
         horaInicio: "12:00",
         horaFin: "13:00",
@@ -9,7 +10,8 @@ var actividades = [
     },
 
     {
-        nombre: "GENERAL: Reunión inicial del Equipo",
+        nombre: "Reunión inicial del Equipo", 
+        grupo: "GENERAL",
         fecha: "2023-02-06",
         horaInicio: "11:00",
         horaFin: "12:00",
@@ -18,7 +20,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 8: ¿Evaluamos lo que realmente importa? Diseño e implementación de evaluación auténtica en la enseñanza de Ciencia e Ingeniería",
+        nombre: "¿Evaluamos lo que realmente importa? Diseño e implementación de evaluación auténtica en la enseñanza de Ciencia e Ingeniería", 
+        grupo: "GRUPO 8",
         ponente: "Prof. María Romero González (Universidad de Queen Mary de Londres)",
         fecha: "2023-02-16",
         horaInicio: "12:00",
@@ -37,7 +40,8 @@ var actividades = [
     },
 
     {
-        nombre: "GENERAL: Propuestas sobre docencia y su calidad en la UGR",
+        nombre: "Propuestas sobre docencia y su calidad en la UGR", 
+        grupo: "GENERAL",
         ponente: "Pedro Mercado Pacheco, ex-vicerrector de Política Institucional y Planificación",
         fecha: "2023-02-16",
         horaInicio: "17:00",
@@ -49,7 +53,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 9: Innovación docente interdisciplinar a través del patrimonio histórico-artístico y, porqué no, divulgación.",
+        nombre: "Innovación docente interdisciplinar a través del patrimonio histórico-artístico y, porqué no, divulgación.", 
+        grupo: "GRUPO 9",
         ponente: " Prof. José Juan Castro Torres (Departamento de Óptica, UGR)",
         fecha: "2023-02-23",
         horaInicio: "12:00",
@@ -67,7 +72,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 2: Experiencias de aprendizaje colaborativo internacional en el contexto de ARQUS",
+        nombre: "Experiencias de aprendizaje colaborativo internacional en el contexto de ARQUS", 
+        grupo: "GRUPO 2",
         ponente: "Pedro Real Luna y Salvador Morales Ruano",
         fecha: "2023-04-18",
         horaInicio: "11:00",
@@ -77,7 +83,8 @@ var actividades = [
     },
 
     {
-        nombre: "GENERAL: Sesión Markdown",
+        nombre: "Sesión Markdown", 
+        grupo: "GENERAL",
         ponente: "Pedro A. García Sánchez, Francisco Gómez",
         fecha: "2023-05-04",
         horaInicio: "12:00",
@@ -89,7 +96,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 8: Evaluación del desempeño docente del profesorado mediante el Docentia-UGR",
+        nombre: "Evaluación del desempeño docente del profesorado mediante el Docentia-UGR", 
+        grupo: "GRUPO 8",
         ponente: "Teresa Pozo, David Guerrero y Diego Pablo Ruiz. UCIP",
         fecha: "2023-06-06",
         horaInicio: "12:30",
@@ -99,7 +107,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 7: Consejos y experiencia en la aplicación de un escape room en la docencia universitaria",
+        nombre: "Consejos y experiencia en la aplicación de un escape room en la docencia universitaria", 
+        grupo: "GRUPO 7",
         ponente: "Jose Luis Gómez Urquiza",
         fecha: "2023-06-13",
         horaInicio: "15:00",
@@ -109,7 +118,8 @@ var actividades = [
     },
 
     {
-        nombre: "GRUPO 3: Experiencias con Talleres y H5P en PRADO",
+        nombre: "Experiencias con Talleres y H5P en PRADO", 
+        grupo: "GRUPO 3",
         ponente: "Sonia Rodríguez, Pedro A. García, Eloisa Ramos y María Hernández",
         fecha: "2023-06-26",
         horaInicio: "10:00",
@@ -120,7 +130,8 @@ var actividades = [
     },
 
     {
-        nombre: "GENERAL: Introducción a la programación y diseño web",
+        nombre: "Introducción a la programación y diseño web", 
+        grupo: "GENERAL",
         ponente: "Juan Antonio Villegas",
         fecha: "2023-06-26",
         horaInicio: "11:30",
@@ -131,7 +142,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Confección de materiales accesibles, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).",
+        nombre: "Confección de materiales accesibles, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).", 
+        grupo: "Formación Inicial",
         ponente: "M. Asunción Arrufat Pérez de Zafra, Departamento de Traducción e Interpretación y anteriormente Personal de Apoyo Técnico a la Investigación del Secretariado para la Inclusión del Vicerrectorado de Igualdad, Inclusión y Sostenibilidad.",
         fecha: "2024-03-22",
         horaInicio: "09:00",
@@ -141,7 +153,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Cómo evitar el plagio en los trabajos de los alumnos, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Cómo evitar el plagio en los trabajos de los alumnos, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Esther Viseras Alarcón, Departamento de Genética",
         fecha: "2024-04-09",
         horaInicio: "09:00",
@@ -151,7 +164,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Varias experiencias en la universidad. Mesa redonda, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).",
+        nombre: "Varias experiencias en la universidad. Mesa redonda, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).", 
+        grupo: "Formación Inicial",
         ponente: "Silvia Muñoz Fernández, trabajadora social del Servicio de Asistencia Estudiantil del Vicerrectorado de Estudiantes y varios estudiantes con NEAE",
         fecha: "2024-04-12",
         horaInicio: "09:30",
@@ -161,7 +175,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Procedimiento de atención a los estudiantes con NEAE en los Grados, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).",
+        nombre: "Procedimiento de atención a los estudiantes con NEAE en los Grados, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).", 
+        grupo: "Formación Inicial",
         ponente: "Mohamed Abdelaziz Mohamed, Departamento de Genética, coordinador NEAE del grado en Biología y miembro de la Comisión de Inclusión de la Facultad de Ciencias y tutor de varios estudiantes con NEAE.",
         fecha: "2024-04-15",
         horaInicio: "12:00",
@@ -171,7 +186,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: La acción tutorial en la universidad; diseño de una estrategia de orientación académica y profesional para los estudiantes del grado en Biología, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).",
+        nombre: "La acción tutorial en la universidad; diseño de una estrategia de orientación académica y profesional para los estudiantes del grado en Biología, perteneciente al taller de Acción Tutorial y Metodología accesible a Estudiantes universitarios con discapacidad y otras Necesidades Específicas de Apoyo Educativo (NEAE).", 
+        grupo: "Formación Inicial",
         ponente: "Cristina Trenzado Romero, Departamento de Biología Celular y responsable del Plan de Acción Tutorial del Grado de Biología.",
         fecha: "2023-04-17",
         horaInicio: "12:00",
@@ -180,7 +196,8 @@ var actividades = [
         descripcion: "Objetivos planteados y metodología utilizada en el Plan de Acción Tutorial de Biología: Para la formación a estudiantes, programación de actividades presenciales adaptadas a cada curso con el fin de facilitar el acceso a las fuentes de información con las que cuenta la Universidad de Granada. Diseño de una herramienta digital, de aplicación práctica, que favorezca los canales de comunicación entre profesorado y estudiantes permitiendo al estudiante hacer una selección personalizada de contenidos e incorporando herramientas que fomenten su aprendizaje y desarrollo profesional."
     },
     {
-        nombre: "Formación Inicial: Mesa redonda sobre problemas y dudas en docencia en general, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Mesa redonda sobre problemas y dudas en docencia en general, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Emilia M. Guadix Escobar, Diego P. Ruiz Padillo, Pedro García Fernández y Esther Viseras Alarcón",
         fecha: "2024-04-26",
         horaInicio: "12:00",
@@ -190,7 +207,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Planificación de materias, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Planificación de materias, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación inicial",
         ponente: "Emilia M. Guadix Escobar, Departamento de Ingeniería Química",
         fecha: "2024-04-24",
         horaInicio: "12:00",
@@ -200,7 +218,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Metodologías activas, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Metodologías activas, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Emilia M. Guadix Escobar, Departamento de Ingeniería Química",
         fecha: "2024-04-30",
         horaInicio: "12:00",
@@ -210,7 +229,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Herramientas y técnicas de evaluación de materias basadas en competencias, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Herramientas y técnicas de evaluación de materias basadas en competencias, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Diego P. Ruiz Padillo, Departamento de Física Aplicada",
         fecha: "2024-05-03",
         horaInicio: "12:00",
@@ -220,7 +240,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Ética de la profesión docente, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Ética de la profesión docente, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Emilia M. Guadix Escobar, Departamento de Ingeniería Química",
         fecha: "2024-05-02",
         horaInicio: "11:00",
@@ -230,7 +251,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Innovación y curriculum docente en Ciencias y Técnicas, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Innovación y curriculum docente en Ciencias y Técnicas, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Diego P. Ruiz Padillo, Departamento de Física Aplicada",
         fecha: "2024-05-09",
         horaInicio: "12:00",
@@ -240,7 +262,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: De la clase magistral a la clase invertida: cómo cuándo y por qué, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "De la clase magistral a la clase invertida: cómo cuándo y por qué, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación Inicial",
         ponente: "Esther Viseras Alarcón, Departamento de Genética",
         fecha: "2024-05-14",
         horaInicio: "09:00",
@@ -250,7 +273,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación Inicial: Evaluación de la docencia en el profesorado universitario, perteneciente al taller de Metodología y Planificación Docente.",
+        nombre: "Evaluación de la docencia en el profesorado universitario, perteneciente al taller de Metodología y Planificación Docente.", 
+        grupo: "Formación Inicial",
         ponente: "Diego P. Ruiz Padillo, Departamento de Física Aplicada",
         fecha: "2024-05-16",
         horaInicio: "12:00",
@@ -260,7 +284,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Cuerpo y voz: dos instrumentos al servicio de la docencia, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Cuerpo y voz: dos instrumentos al servicio de la docencia, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Alicia Sierra Gómez",
         fecha: "2024-04-03",
         horaInicio: "09:30",
@@ -270,7 +295,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Expresión corporal y transmisión de conocimientos, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Expresión corporal y transmisión de conocimientos, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Alicia Sierra Gómez",
         fecha: "2024-04-04",
         horaInicio: "09:30",
@@ -280,7 +306,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Recursos motivacionales, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Recursos motivacionales, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Esther Viseras Alarcón, Departamento de Genética.",
         fecha: "2024-05-21",
         horaInicio: "09:00",
@@ -290,7 +317,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Diseño de recursos interactivos de apoyo a la docencia, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Diseño de recursos interactivos de apoyo a la docencia, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
         fecha: "2024-05-13",
         horaInicio: "10:30",
@@ -300,7 +328,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Creación de materiales docentes con H5P, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Creación de materiales docentes con H5P, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
         fecha: "2024-06-17",
         horaInicio: "10:30",
@@ -310,7 +339,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Creación de vídeos docentes con Kaltura, perteneciente al taller de Herramientas de Gestión del Aula.",
+        nombre: "Creación de vídeos docentes con Kaltura, perteneciente al taller de Herramientas de Gestión del Aula.", 
+        grupo: "Formación inicial",
         ponente: "Pedro García Fernández, Departamento de Electrónica y Tecnología de Computadores",
         fecha: "2024-06-20",
         horaInicio: "10:30",
@@ -320,7 +350,8 @@ var actividades = [
     },
 
     {
-        nombre: "Formación inicial: Herramientas para la elaboración rápida de materiales docentes, perteneciente al taller de Aportaciones Formativas de Profesores Noveles.",
+        nombre: "Herramientas para la elaboración rápida de materiales docentes, perteneciente al taller de Aportaciones Formativas de Profesores Noveles.", 
+        grupo: "Formación inicial",
         ponente: "Juan Antonio Villegas Recio,  Departamento de Matemática Aplicada",
         fecha: "2024-06-14",
         horaInicio: "09:00",
@@ -333,7 +364,8 @@ var actividades = [
     // Plantilla para proximas actividades
     // No olvidar poner la coma despues de la última actividad publicada
     {
-        nombre: "GRUPO X: <nombre>",
+        nombre: "<nombre>", 
+        grupo: "GRUPO X",
         ponente: "",
         fecha: "yyyy-mm-dd",
         horaInicio: "HH:MM",
