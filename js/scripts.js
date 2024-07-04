@@ -58,7 +58,10 @@ $(function () {
     var context = {
         actividadesPasadas: actividadesPasadas,
         actividadesFuturas: actividadesFuturas,
-        hayActividades: actividadesFuturas.length > 0
+        hayActividades: actividadesFuturas.length > 0,
+        muchasPasadas: actividadesPasadas.length > 6,
+        primerasPasadas: actividadesPasadas.slice(0,6),
+        restoPasadas: actividadesPasadas.slice(6,actividadesPasadas.length)
     };
   
     // Pass our data to the template

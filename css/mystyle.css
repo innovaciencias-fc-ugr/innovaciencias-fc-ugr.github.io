@@ -26,3 +26,17 @@ footer {
     top: -80px; 
     visibility: hidden;
 }
+
+/* inspirado en https://stackoverflow.com/a/55032002/7775075 */
+
+details.description[open] summary::after {
+    content: attr(data-open);
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  details.description:not([open]) summary::after {
+    content: attr(data-close);
+    font-size: large;
+    font-weight: bold;
+  }
