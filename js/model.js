@@ -366,8 +366,8 @@ var actividades = [
         fecha: "2024-10-25",
         horaInicio: "10:20",
         horaFin: "12:30",
-        lugar: "Sala de Exposiciones de la Facultad de Ciencias",
-        descripcion: 'Jornada Inaugural del curso "Desarrollo de Proyectos interdisciplinares en Ciencias (III ed.)", https://interciencias.ugr.es/'
+        lugar: "Sala de Exposiciones",
+        descripcion: "Jornada Inaugural del curso Desarrollo de Proyectos interdisciplinares en Ciencias (III ed.)"
     }
 
     /*
