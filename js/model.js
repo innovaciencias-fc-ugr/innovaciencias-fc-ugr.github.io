@@ -358,6 +358,16 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula A-10",
         descripcion: "Introducción a utilidades y lenguajes informáticos de fácil aplicación para la docencia."
+    },
+    {
+        nombre: "Desarrollo de Proyectos interdisciplinares en Ciencias", 
+        grupo: "GRUPO PI",
+        ponente: "María José Granados, Departamento de Física Aplicada",
+        fecha: "2024-10-25",
+        horaInicio: "10:20",
+        horaFin: "12:30",
+        lugar: "Sala de Exposiciones de la Facultad de Ciencias",
+        descripcion: "Jornada Inaugural del curso del Centro Mediterráneo "Desarrollo de Proyectos interdisciplinares en Ciencias (III ed.), https://interciencias.ugr.es/ "
     }
 
     /*
