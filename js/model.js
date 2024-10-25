@@ -361,7 +361,7 @@ var actividades = [
     },
     {
         nombre: "Desarrollo de Proyectos interdisciplinares en Ciencias", 
-        grupo: "GRUPO PI",
+        grupo: "GRUPO 9",
         ponente: "María José Granados, Departamento de Física Aplicada",
         fecha: "2024-10-25",
         horaInicio: "10:20",
