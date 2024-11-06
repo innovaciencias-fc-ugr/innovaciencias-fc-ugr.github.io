@@ -368,13 +368,24 @@ var actividades = [
         horaFin: "12:30",
         lugar: "Sala de Exposiciones",
         descripcion: "Jornada Inaugural del curso Desarrollo de Proyectos interdisciplinares en Ciencias (III ed.)"
+    },
+    {
+        nombre: "Markdown para creación de material docente", 
+        grupo: "GRUPO 6",
+        ponente: "Pedro A. García Sánchez, Departemento de Álgebra",
+        fecha: "2024-11-13",
+        horaInicio: "10:30",
+        horaFin: "12:30",
+        lugar: "Aula Inf-O-05",
+        descripcion: "Sesión de formación PID 24-117 (CREPAL): Markdown para creación de material docente."
     }
+
 
     /*
     // Plantilla para proximas actividades
     // No olvidar poner la coma despues de la última actividad publicada
     {
-        nombre: "<nombre>", 
+        nombre: "Markdown para creación de material docente", 
         grupo: "GRUPO X",
         ponente: "",
         fecha: "yyyy-mm-dd",
