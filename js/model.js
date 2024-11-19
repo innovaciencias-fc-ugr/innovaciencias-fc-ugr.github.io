@@ -383,7 +383,7 @@ var actividades = [
         nombre: "Presentación del programa del equipo docente de formación inicial.", 
         grupo: "Formación Inicial",
         ponente: "Esther Viseras Alarcón, Departamento de Genética",
-        fecha: "2024-11-23",
+        fecha: "2024-11-26",
         horaInicio: "13:00",
         horaFin: "14:00",
         lugar: "Aula Audiovisuales",
