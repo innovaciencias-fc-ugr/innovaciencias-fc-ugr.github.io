@@ -378,8 +378,17 @@ var actividades = [
         horaFin: "12:30",
         lugar: "Aula Inf-O-05",
         descripcion: "Sesión de formación PID 24-117 (CREPAL): Markdown para creación de material docente."
+    },
+    {
+        nombre: "Presentación del programa del equipo docente de formación inicial.", 
+        grupo: "Formación Inicial",
+        ponente: "Esther Viseras Alarcón, Departamento de Genética",
+        fecha: "2024-11-23",
+        horaInicio: "13:00",
+        horaFin: "14:00",
+        lugar: "Aula Audiovisuales",
+        descripcion: "Presentación del plan formativo, plan de trabajo y otros aspectos relacionados con el equipo docente de formación inicial."
     }
-
 
     /*
     // Plantilla para proximas actividades
