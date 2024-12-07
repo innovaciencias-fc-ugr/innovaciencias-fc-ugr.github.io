@@ -1,7 +1,7 @@
 var actividades = [
     {
         nombre: "Presentación de la actividad del grupo de Proyectos Interdisciplinares", 
-        grupo: "GRUPO 9",
+        grupo: "GRUPO 9 (2022/23)",
         fecha: "2023-02-01",
         horaInicio: "12:00",
         horaFin: "13:00",
@@ -21,7 +21,7 @@ var actividades = [
 
     {
         nombre: "¿Evaluamos lo que realmente importa? Diseño e implementación de evaluación auténtica en la enseñanza de Ciencia e Ingeniería", 
-        grupo: "GRUPO 8",
+        grupo: "GRUPO 8 (2022/23)",
         ponente: "Prof. María Romero González (Universidad de Queen Mary de Londres)",
         fecha: "2023-02-16",
         horaInicio: "12:00",
@@ -54,7 +54,7 @@ var actividades = [
 
     {
         nombre: "Innovación docente interdisciplinar a través del patrimonio histórico-artístico y, porqué no, divulgación.", 
-        grupo: "GRUPO 9",
+        grupo: "GRUPO 9 (2022/23)",
         ponente: " Prof. José Juan Castro Torres (Departamento de Óptica, UGR)",
         fecha: "2023-02-23",
         horaInicio: "12:00",
@@ -73,7 +73,7 @@ var actividades = [
 
     {
         nombre: "Experiencias de aprendizaje colaborativo internacional en el contexto de ARQUS", 
-        grupo: "GRUPO 2",
+        grupo: "GRUPO 2 (2022/23)",
         ponente: "Pedro Real Luna y Salvador Morales Ruano",
         fecha: "2023-04-18",
         horaInicio: "11:00",
@@ -97,7 +97,7 @@ var actividades = [
 
     {
         nombre: "Evaluación del desempeño docente del profesorado mediante el Docentia-UGR", 
-        grupo: "GRUPO 8",
+        grupo: "GRUPO 8 (2022/23)",
         ponente: "Teresa Pozo, David Guerrero y Diego Pablo Ruiz. UCIP",
         fecha: "2023-06-06",
         horaInicio: "12:30",
@@ -108,7 +108,7 @@ var actividades = [
 
     {
         nombre: "Consejos y experiencia en la aplicación de un escape room en la docencia universitaria", 
-        grupo: "GRUPO 7",
+        grupo: "GRUPO 7 (2022/23)",
         ponente: "Jose Luis Gómez Urquiza",
         fecha: "2023-06-13",
         horaInicio: "15:00",
@@ -119,7 +119,7 @@ var actividades = [
 
     {
         nombre: "Experiencias con Talleres y H5P en PRADO", 
-        grupo: "GRUPO 3",
+        grupo: "GRUPO 3 (2022/23)",
         ponente: "Sonia Rodríguez, Pedro A. García, Eloisa Ramos y María Hernández",
         fecha: "2023-06-26",
         horaInicio: "10:00",
@@ -361,7 +361,7 @@ var actividades = [
     },
     {
         nombre: "Desarrollo de Proyectos interdisciplinares en Ciencias", 
-        grupo: "GRUPO 9",
+        grupo: "GRUPO 9 (2024/25)",
         ponente: "María José Granados, Departamento de Física Aplicada",
         fecha: "2024-10-25",
         horaInicio: "10:20",
@@ -371,7 +371,7 @@ var actividades = [
     },
     {
         nombre: "Markdown para creación de material docente", 
-        grupo: "GRUPO 6",
+        grupo: "GRUPO 6 (2024/25)",
         ponente: "Pedro A. García Sánchez, Departemento de Álgebra",
         fecha: "2024-11-13",
         horaInicio: "10:30",
@@ -381,7 +381,7 @@ var actividades = [
     },
     {
         nombre: "Presentación del programa del equipo docente de formación inicial.", 
-        grupo: "Formación Inicial",
+        grupo: "Formación Inicial (2024/25)",
         ponente: "Esther Viseras Alarcón, Departamento de Genética",
         fecha: "2024-11-26",
         horaInicio: "13:00",
