@@ -388,7 +388,28 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula Audiovisuales",
         descripcion: "Presentación del plan formativo, plan de trabajo y otros aspectos relacionados con el equipo docente de formación inicial."
+    },
+    {
+        nombre: "Reunión inicial", 
+        grupo: "GRUPO 7 (2024/25)",
+        ponente: "María Hernández Valladares",
+        fecha: "2025-01-09",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula A10",
+        descripcion: "Reunión inicial del grupo de trabajo Inclusión, diversidad y sostenibilidad."
+    },
+    {
+        nombre: "Reunión inicial", 
+        grupo: "GRUPO 1 (2024/25)",
+        ponente: "F. David Carmona López ",
+        fecha: "2024-12-20",
+        horaInicio: "10:00",
+        horaFin: "12:00",
+        lugar: "Aula A10",
+        descripcion: "Reunión inicial del grupo de trabajo Gamificación, Escape room educativa."
     }
+
 
     /*
     // Plantilla para proximas actividades
