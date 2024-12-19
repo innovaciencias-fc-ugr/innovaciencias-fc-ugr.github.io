@@ -408,6 +408,86 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula A10",
         descripcion: "Reunión inicial del grupo de trabajo Gamificación, Escape room educativa."
+    },
+    {
+        nombre: "La gamificación en la docencia universitaria", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "F. David Carmona López ",
+        fecha: "2025-01-10",
+        horaInicio: "10:00",
+        horaFin: "13:00",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 1.e del equipo de formación inicial"
+    },
+    {
+        nombre: "Diseño de recursos interactivos de apoyo a la docencia", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Pedro García Fernández",
+        fecha: "2025-01-13",
+        horaInicio: "11:00",
+        horaFin: "14:00",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 1.d del equipo de formación inicial"
+    },
+    {
+        nombre: "Innovación y curriculum docente en Ciencias y Técnicas", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Diego P. Ruiz Padillo",
+        fecha: "2025-01-23",
+        horaInicio: "11:30",
+        horaFin: "14:30",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 1.b del equipo de formación inicial"
+    },
+    {
+        nombre: "Procedimiento de atención a los estudiantes con NEAE en los grados", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Mohamed Abdelaziz",
+        fecha: "2025-01-27",
+        horaInicio: "11:00",
+        horaFin: "13:00",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 2.a del equipo de formación inicial"
+    },
+    {
+        nombre: "La Acción Tutorial en la Universidad; diseño de una estrategia de orientación académica y profesional para los estudiantes del grado en Biología", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Cristina Trenzado",
+        fecha: "2025-01-31",
+        horaInicio: "09:30",
+        horaFin: "12:30",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 2.d del equipo de formación inicial"
+    },
+    {
+        nombre: "Confección de materiales accesibles", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "M. Asunción Arrufat Pérez de Zafra",
+        fecha: "2025-02-11",
+        horaInicio: "11:00",
+        horaFin: "14:00",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 2.c del equipo de formación inicial"
+    },
+    {
+        nombre: "Planificación de materias, potenciando las metodologías activas", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Emilia M. Guadix Escobar",
+        fecha: "2025-02-12",
+        horaInicio: "11:00",
+        horaFin: "14:00",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 1.a del equipo de formación inicial"
+    },
+    {
+        nombre: "Manejo de clases, recursos motivacionales y aprendizaje cooperativo", 
+        grupo: "Formación Inicial (2024/25)",
+        ponente: "Esther Viseras Alarcón",
+        fecha: "2025-02-14",
+        horaInicio: "09:30",
+        horaFin: "12:30",
+        lugar: "Aula de Medios Audiovisuales",
+        descripcion: "Sesión 1.c del equipo de formación inicial"
     }
 
 
