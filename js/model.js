@@ -488,7 +488,58 @@ var actividades = [
         horaFin: "12:30",
         lugar: "Aula de Medios Audiovisuales",
         descripcion: "Sesión 1.c del equipo de formación inicial"
+    },
+    {
+        nombre: "Introducción a LaTeX", 
+        grupo: "GRUPO 6 (2024/25)",
+        ponente: "Francisco Torralbo Torralbo, Departamento de Geometría y Topología",
+        fecha: "2025-01-13",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula 10",
+        descripcion: "Primeros pasos y creación de documentos básicos en LaTeX"
+    },
+    {
+        nombre: "Fórmulas matemáticas, químicas, y bibliografía en LaTeX", 
+        grupo: "GRUPO 6 (2024/25)",
+        ponente: "Jerónimo Alaminos Prats, Departamento de Análisis Matemático",
+        fecha: "2025-01-15",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula 10",
+        descripcion: "Fórmulas, entornos matemáticos, fórmulas químicas en LaTeX; bibliografía"
+    },
+    {
+        nombre: "Introducción a gráficos y presentaciones en LaTeX", 
+        grupo: "GRUPO 6 (2024/25)",
+        ponente: "Óscar Sánchez Romero, Departamento de Matemática Aplicada",
+        fecha: "2025-01-20",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula 10",
+        descripcion: "Primeros pasos con gráficas en LaTeX; presentaciones con beamer"
+    },
+    {
+        nombre: "Gráficos avanzados y pósteres en LaTeX", 
+        grupo: "GRUPO 6 (2024/25)",
+        ponente: "Óscar Sánchez, Departamento de Matemática Aplicada, Jerónimo Alaminos, Análisis Matemático",
+        fecha: "2025-01-22",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula 10",
+        descripcion: "Gráficos avanzados en LaTeX, elaboración de un póster en LaTeX"
+    },
+    {
+        nombre: "Exportar e interactuar con otros formatos y entornos colaborativos para trabajar con LaTeX", 
+        grupo: "GRUPO 6 (2024/25)",
+        ponente: "Pedro A. García Sánchez, Departamento de Álgebra",
+        fecha: "2025-01-27",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula 10",
+        descripcion: "Exportar e importar documentos en LaTeX a otros formatos. Uso de entornos colaborativos y para publicación de contenidos."
     }
+
 
 
     /*
