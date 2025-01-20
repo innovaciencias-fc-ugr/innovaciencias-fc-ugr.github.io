@@ -538,6 +538,16 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula 10",
         descripcion: "Exportar e importar documentos en LaTeX a otros formatos. Uso de entornos colaborativos y para publicación de contenidos."
+    },
+    {
+        nombre: "Reunión inicial", 
+        grupo: "Grupo 5 (2024/25)",
+        ponente: "Marcos Moleón Paiz",
+        fecha: "2025-01-21",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A05",
+        descripcion: "Reunión inicial del grupo de trabajo Aula Invertida"
     }
 
 
