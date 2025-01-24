@@ -454,8 +454,8 @@ var actividades = [
         grupo: "Formación Inicial (2024/25)",
         ponente: "Cristina Trenzado",
         fecha: "2025-01-31",
-        horaInicio: "09:30",
-        horaFin: "12:30",
+        horaInicio: "09:00",
+        horaFin: "11:00",
         lugar: "Aula de Medios Audiovisuales",
         descripcion: "Sesión 2.d del equipo de formación inicial"
     },
