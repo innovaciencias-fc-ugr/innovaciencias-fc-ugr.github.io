@@ -548,6 +548,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A05",
         descripcion: "Reunión inicial del grupo de trabajo Aula Invertida"
+    },
+    {
+        nombre: "Reunión inicial", 
+        grupo: "Grupo 10 (2024/25)",
+        ponente: "Ana P. Millán Vidal",
+        fecha: "2025-01-31",
+        horaInicio: "11:00",
+        horaFin: "13:00",
+        lugar: "Aula A15",
+        descripcion: "Reunión inicial del grupo de trabajo Inteligencia Artificial Generativa"
     }
 
 
