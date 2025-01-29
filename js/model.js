@@ -558,6 +558,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A15",
         descripcion: "Reunión inicial del grupo de trabajo Inteligencia Artificial Generativa"
+    },
+    {
+        nombre: "Innovación docente, mediante gamificación y escape room, en áreas de ciencias e ingenierías", 
+        grupo: "Grupo 1 (2024/25)",
+        ponente: "Isaac Pérez Lópex",
+        fecha: "2025-02-27",
+        horaInicio: "16:30",
+        horaFin: "18:30",
+        lugar: "Aula A20",
+        descripcion: "Isaac es Director del Secretariado de Innovación e Implicación Social y nos hablará sobre experiencias de gamificación y escape room en docencia"
     }
 
 
