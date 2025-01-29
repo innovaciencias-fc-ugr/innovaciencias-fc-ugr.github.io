@@ -562,7 +562,7 @@ var actividades = [
     {
         nombre: "Innovación docente, mediante gamificación y escape room, en áreas de ciencias e ingenierías", 
         grupo: "Grupo 1 (2024/25)",
-        ponente: "Isaac Pérez Lópex",
+        ponente: "Isaac Pérez López",
         fecha: "2025-02-27",
         horaInicio: "16:30",
         horaFin: "18:30",
