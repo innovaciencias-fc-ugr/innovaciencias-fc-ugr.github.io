@@ -568,6 +568,16 @@ var actividades = [
         horaFin: "18:30",
         lugar: "Aula A20",
         descripcion: "Isaac es Director del Secretariado de Innovación e Implicación Social y nos hablará sobre experiencias de gamificación y escape room en docencia"
+    },
+    {
+        nombre: "Uso y aplicaciones de ChatGPT en docencia", 
+        grupo: "Grupo 10 (2024/25)",
+        ponente: "osé López Molina (Departamento de Física Aplicada)",
+        fecha: "2025-03-04",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "Aula A22",
+        descripcion: "Charla sobre el uso de ChatGPT en docencia, dentro del grupo de trabajo Inteligencia Artificial Generativa de InnovaCiencias"
     }
 
 
