@@ -572,7 +572,7 @@ var actividades = [
     {
         nombre: "Uso y aplicaciones de ChatGPT en docencia", 
         grupo: "Grupo 10 (2024/25)",
-        ponente: "osé López Molina (Departamento de Física Aplicada)",
+        ponente: "José López Molina (Departamento de Física Aplicada)",
         fecha: "2025-03-04",
         horaInicio: "12:00",
         horaFin: "13:30",
