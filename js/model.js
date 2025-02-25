@@ -578,6 +578,16 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula A22",
         descripcion: "Charla sobre el uso de ChatGPT en docencia, dentro del grupo de trabajo Inteligencia Artificial Generativa de InnovaCiencias"
+    },
+    {
+        nombre: "Blender: el software todoterreno", 
+        grupo: "Grupo 6 (2024/25)",
+        ponente: "Francisco Manuel Gómez Campos, Departamento de Electrónica y Tecnología de los Computadores",
+        fecha: "2025-03-07",
+        horaInicio: "11:30",
+        horaFin: "13:30",
+        lugar: "Sala Bibliomaker (Biblioteca Facultad de Ciencias)",
+        descripcion: "Si te interesa el 3D y sus numerosas aplicaciones (modelado, animación, impresión...), en esta charla podrás conocer las posibilidades que tiene Blender, un software de modelado 3D de código abierto ampliamente reconocido en ámbitos académicos y profesionales. Participa en esta actividad y conoce las posibilidades que tiene este software tan potente. "
     }
 
 
