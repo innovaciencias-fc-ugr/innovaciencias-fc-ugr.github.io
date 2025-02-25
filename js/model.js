@@ -588,13 +588,23 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Sala Bibliomaker (Biblioteca Facultad de Ciencias)",
         descripcion: "Si te interesa el 3D y sus numerosas aplicaciones (modelado, animación, impresión...), en esta charla podrás conocer las posibilidades que tiene Blender, un software de modelado 3D de código abierto ampliamente reconocido en ámbitos académicos y profesionales. Participa en esta actividad y conoce las posibilidades que tiene este software tan potente. "
+    },
+    {
+        nombre: "Descubriendo las Metodologías Activas", 
+        grupo: "Grupo 3 (2024/25)",
+        ponente: "Vanesa Mª Gámiz Sánchez. Departamento de Didáctica y Organización y  Directora del Secretariado De Formación Online del Vicerrectorado de Transformación Digital",
+        fecha: "2025-03-10",
+        horaInicio: "12:30",
+        horaFin: "14:00",
+        lugar: "Aula A22",
+        descripcion: "Primera sesión del grupo de metodologías activas"
     }
 
 
 
     /*
-    // Plantilla para proximas actividades
-    // No olvidar poner la coma despues de la última actividad publicada
+    // Plantilla para próximas actividades
+    // No olvidar poner la coma después de la última actividad publicada
     {
         nombre: "Markdown para creación de material docente", 
         grupo: "Grupo X",
