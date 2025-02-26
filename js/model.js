@@ -598,6 +598,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A22",
         descripcion: "Primera sesión del grupo de metodologías activas"
+    },
+    {
+        nombre: "Manos a la obra con Blender", 
+        grupo: "Grupo 6 (2024/25)",
+        ponente: "Francisco Manuel Gómez Campos, Departamento de Electrónica y Tecnología de los Computadores",
+        fecha: "2025-03-14",
+        horaInicio: "11:30",
+        horaFin: "13:30",
+        lugar: "Aula-Inf O05",
+        descripcion: "En esta sesión los participantes tendrán la oportunidad de practicar con Blender. Trabajaremos la interfaz del programa y conceptos básicos sobre modelado, animación y materiales. El objetivo es que los asistentes se animen a aprender mucho más para poder usarlo con propósitos docentes."
     }
 
 
