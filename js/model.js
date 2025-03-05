@@ -623,7 +623,7 @@ var actividades = [
         nombre: "Reunión de trabajo", 
         grupo: "Grupo 2 (2024/25)",
         ponente: "Clotilde Martínez Álvarez",
-        fecha: "2025-04-14",
+        fecha: "2025-03-14",
         horaInicio: "12:30",
         horaFin: "14:00",
         lugar: "Aula A21",
