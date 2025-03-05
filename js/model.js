@@ -608,6 +608,26 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula-Inf O05",
         descripcion: "En esta sesión los participantes tendrán la oportunidad de practicar con Blender. Trabajaremos la interfaz del programa y conceptos básicos sobre modelado, animación y materiales. El objetivo es que los asistentes se animen a aprender mucho más para poder usarlo con propósitos docentes."
+    },
+    {
+        nombre: "Reunión inicial", 
+        grupo: "Grupo 2 (2024/25)",
+        ponente: "Clotilde Martínez Álvarez",
+        fecha: "2025-02-21",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A21",
+        descripcion: "Reunión inicial del grupo de trabajo Metodología para grupos grandes."
+    },
+    {
+        nombre: "Reunión de trabajo", 
+        grupo: "Grupo 2 (2024/25)",
+        ponente: "Clotilde Martínez Álvarez",
+        fecha: "2025-04-14",
+        horaInicio: "12:30",
+        horaFin: "14:00",
+        lugar: "Aula A21",
+        descripcion: "Segunda reunión del grupo de trabajo Metodología para grupos grandes."
     }
 
 
