@@ -630,14 +630,14 @@ var actividades = [
         descripcion: "Segunda reunión del grupo de trabajo Metodología para grupos grandes. Tras la realización de una primera actividad en el aula se hará una puesta en común de los resultados y conclusiones. Se estudiarán posibles actividades futuras."
     },
     {
-        nombre: "Reunión de trabajo", 
+        nombre: "Actualizaciones de los planes de trabajo", 
         grupo: "Grupo 7 (2024/25)",
         ponente: "María Hernández Valladares",
         fecha: "2025-03-18",
         horaInicio: "13:00",
         horaFin: "14:30",
         lugar: "Aula A10",
-        descripcion: "Segunda reunión (primera presencial) del grupo de trabajo Inclusión, diversidad y sostenibilidad."
+        descripcion: "Actualizaciones de los planes de trabajo y estrategias de los 7 grupos temáticos del Grupo 7 - Inclusión, diversidad y sostenibilidad."
     }
 
 
