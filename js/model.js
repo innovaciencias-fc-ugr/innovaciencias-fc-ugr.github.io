@@ -610,25 +610,36 @@ var actividades = [
         descripcion: "En esta sesión los participantes tendrán la oportunidad de practicar con Blender. Trabajaremos la interfaz del programa y conceptos básicos sobre modelado, animación y materiales. El objetivo es que los asistentes se animen a aprender mucho más para poder usarlo con propósitos docentes."
     },
     {
-        nombre: "Reunión inicial", 
+        nombre: "Metodologías para grupos grandes", 
         grupo: "Grupo 2 (2024/25)",
         ponente: "Clotilde Martínez Álvarez",
         fecha: "2025-02-21",
         horaInicio: "12:00",
         horaFin: "14:00",
         lugar: "Aula A21",
-        descripcion: "Reunión inicial del grupo de trabajo Metodología para grupos grandes."
+        descripcion: "Primera sesión del grupo de trabajo Metodología para grupos grandes."
     },
     {
-        nombre: "Reunión de trabajo", 
+        nombre: "Practicando en el aula metodologías para grupos grandes", 
         grupo: "Grupo 2 (2024/25)",
         ponente: "Clotilde Martínez Álvarez",
         fecha: "2025-03-14",
         horaInicio: "12:30",
         horaFin: "14:00",
         lugar: "Aula A21",
-        descripcion: "Segunda reunión del grupo de trabajo Metodología para grupos grandes."
+        descripcion: "Segunda reunión del grupo de trabajo Metodología para grupos grandes. Tras la realización de una primera actividad en el aula se hará una puesta en común de los resultados y conclusiones. Se estudiarán posibles actividades futuras."
+    },
+    {
+        nombre: "Reunión de trabajo", 
+        grupo: "Grupo 7 (2024/25)",
+        ponente: "María Hernández Valladares",
+        fecha: "2025-03-18",
+        horaInicio: "13:00",
+        horaFin: "14:30",
+        lugar: "Aula A10",
+        descripcion: "Segunda reunión (primera presencial) del grupo de trabajo Inclusión, diversidad y sostenibilidad."
     }
+
 
 
 
