@@ -638,6 +638,16 @@ var actividades = [
         horaFin: "14:30",
         lugar: "Aula A10",
         descripcion: "Actualizaciones de los planes de trabajo y estrategias de los 7 grupos temáticos del Grupo 7 - Inclusión, diversidad y sostenibilidad."
+    },
+    {
+        nombre: "Arqus para docentes", 
+        grupo: "Grupo 9 (2024/25)",
+        ponente: "Guadalupe Soriano Barabino, Directora de Arqus UGR ",
+        fecha: "2025-03-14",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "Salón de Grados",
+        descripcion: "La Alianza Universitaria Europea Arqus reúne a las universidades de Breslavia, Granada, Graz, Leipzig, Lyon 1, Maynooth, Miño, Padua y Vilna. Su principal ambición es la de actuar conjuntamente como un laboratorio de aprendizaje institucional desde el que avanzar en el diseño, la comprobación y la aplicación de un modelo innovador de cooperación interuniversitaria profunda. Durante su intervención, la coordinadora local de Arqus presentará la estructura y las principales líneas de acción de la Alianza y destacará las oportunidades que brinda a nuestra institución y, en particular, a su personal docente."
     }
 
 
