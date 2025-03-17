@@ -603,7 +603,7 @@ var actividades = [
         nombre: "Manos a la obra con Blender", 
         grupo: "Grupo 6 (2024/25)",
         ponente: "Francisco Manuel Gómez Campos, Departamento de Electrónica y Tecnología de los Computadores",
-        fecha: "2025-03-14",
+        fecha: "2025-03-28",
         horaInicio: "11:30",
         horaFin: "13:30",
         lugar: "Aula-Inf O05",
