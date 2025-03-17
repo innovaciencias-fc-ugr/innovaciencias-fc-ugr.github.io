@@ -361,7 +361,7 @@ var actividades = [
     },
     {
         nombre: "Desarrollo de Proyectos interdisciplinares en Ciencias", 
-        grupo: "Grupo 9 (2024/25)",
+        grupo: "Grupo 8 (2024/25)",
         ponente: "María José Granados, Departamento de Física Aplicada",
         fecha: "2024-10-25",
         horaInicio: "10:20",
@@ -648,8 +648,17 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Salón de Grados",
         descripcion: "La Alianza Universitaria Europea Arqus reúne a las universidades de Breslavia, Granada, Graz, Leipzig, Lyon 1, Maynooth, Miño, Padua y Vilna. Su principal ambición es la de actuar conjuntamente como un laboratorio de aprendizaje institucional desde el que avanzar en el diseño, la comprobación y la aplicación de un modelo innovador de cooperación interuniversitaria profunda. Durante su intervención, la coordinadora local de Arqus presentará la estructura y las principales líneas de acción de la Alianza y destacará las oportunidades que brinda a nuestra institución y, en particular, a su personal docente."
+    },
+    {
+        nombre: "Conectando las matemáticas y el diseño industrial: experiencias de aprendizaje interdisciplinar y colaborativo en el diseño de productos", 
+        grupo: "Grupo 8 (2024/25)",
+        ponente: "Ester Pérez Sinusía, Universidad de Zaragoza",
+        fecha: "2025-04-04",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "En línea",
+        descripcion: "Esta charla presenta diversas experiencias de aprendizaje interdisciplinar y colaborativo en el Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto de la Universidad de Zaragoza, llevadas a cabo durante el primer semestre del primer curso de la titulación, en las que participa la asignatura de Matemáticas I. En estas experiencias, se integran conocimientos de distintas áreas del diseño industrial y matemáticas a través de actividades y proyectos que fomentan el trabajo en equipo, la innovación, la transversalidad y la resolución de problemas de diseño industrial. La actividad permite además el trabajo coordinado de las competencias transversales del semestre y el uso de TIC en el aprendizaje."
     }
-
 
 
 
