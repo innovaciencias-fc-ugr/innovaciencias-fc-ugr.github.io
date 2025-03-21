@@ -659,7 +659,77 @@ var actividades = [
         lugar: "En línea",
         descripcion: "Esta charla presenta diversas experiencias de aprendizaje interdisciplinar y colaborativo en el Grado en Ingeniería en Diseño Industrial y Desarrollo de Producto de la Universidad de Zaragoza, llevadas a cabo durante el primer semestre del primer curso de la titulación, en las que participa la asignatura de Matemáticas I. En estas experiencias, se integran conocimientos de distintas áreas del diseño industrial y matemáticas a través de actividades y proyectos que fomentan el trabajo en equipo, la innovación, la transversalidad y la resolución de problemas de diseño industrial. La actividad permite además el trabajo coordinado de las competencias transversales del semestre y el uso de TIC en el aprendizaje."
     }
-
+    ,
+    {
+        nombre: "Uso de técnicas de inteligencia artificial para generar resúmenes de apuntes",
+        grupo: "Formación Inicial",
+        ponente: "Javier Martínez López",
+        fecha: "2025-03-24",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula Inf O03",
+        descripcion:""
+    },
+    {
+        nombre: "Implementación de congresos y seminarios científicos como estrategia docente para la concienciación del problema de la resistencia antibiótica",
+        grupo: "Formación Inicial",
+        ponente: " Miguel Ángel Ruiz Fresneda",
+        fecha: "2025-04-01",
+        horaInicio: "10:30",
+        horaFin: "11:30",
+        lugar: "Aula Audiovisuales",
+        descripcion:""
+    },
+    {
+        nombre: "Mesa redonda con los profesores mentores para que los noveles compartan sus dudas y dificultades generales no contempladas en el resto de sesiones formativas",
+        grupo: "Formación Inicial",
+        ponente: "",
+        fecha: "2025-04-08",
+        horaInicio: "12:00",
+        horaFin: "12:00",
+        lugar: "Aula Audiovisuales",
+        descripcion:""
+    },
+    {
+        nombre: "Presentación del protocolo de atención a los estudiantes NEAE en la universidad de Granada",
+        grupo: "Formación Inicial",
+        ponente: "",
+        fecha: "2025-04-11",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula B1",
+        descripcion:""
+    },
+    {
+        nombre: "Mesa redonda con estudiantes NEAE de varios grados de la UGR",
+        grupo: "Formación Inicial",
+        ponente: "",
+        fecha: "2025-04-11",
+        horaInicio: "11:00",
+        horaFin: "21:00",
+        lugar: "Aula B1",
+        descripcion:""
+    },
+    {
+        nombre: "Tips sobre comunicación visual en la docencia",
+        grupo: "Formación Inicial",
+        ponente: "Rodrigo J. Gonçalves",
+        fecha: "2025-05-05",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula Audiovisuales",
+        descripcion:""
+    },
+    {
+        nombre: "Herramientas para la elaboración rápida de materiales docentes",
+        grupo: "Formación Inicial",
+        ponente: " Juan Antonio Villegas Recio",
+        fecha: "2025-06-03",
+        horaInicio: "09:30",
+        horaFin: "12:30",
+        lugar: "Aula A20",
+        descripcion:""
+    }
 
 
     /*
