@@ -729,6 +729,16 @@ var actividades = [
         horaFin: "12:30",
         lugar: "Aula A20",
         descripcion:""
+    },
+    {
+        nombre: "Mis estudIAntes usan IA", 
+        grupo: "Grupo 10 (2024/25)",
+        ponente: "Rafael Vázquez Conejo (Departamento de Óptica)",
+        fecha: "2025-04-01",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "Aula B01",
+        descripcion: "La charla aborda el impacto creciente de la inteligencia artificial en la educación universitaria. Se explorará cómo los estudiantes ya utilizan herramientas de IA, tanto para potenciar su aprendizaje como para evitar el esfuerzo y cómo los docentes debemos adaptarnos a este nuevo escenario. La charla también tratará cuestiones éticas, de privacidad y cómo gestionar el uso de la IA en el aula de manera responsable y productiva. Finalmente, se ofrecerán estrategias para integrar la IA de forma creativa y eficiente en la enseñanza universitaria."
     }
 
 
