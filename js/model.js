@@ -686,7 +686,7 @@ var actividades = [
         ponente: "",
         fecha: "2025-04-08",
         horaInicio: "12:00",
-        horaFin: "12:00",
+        horaFin: "14:00",
         lugar: "Aula Audiovisuales",
         descripcion:""
     },
