@@ -739,7 +739,18 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula B01",
         descripcion: "La charla aborda el impacto creciente de la inteligencia artificial en la educación universitaria. Se explorará cómo los estudiantes ya utilizan herramientas de IA, tanto para potenciar su aprendizaje como para evitar el esfuerzo y cómo los docentes debemos adaptarnos a este nuevo escenario. La charla también tratará cuestiones éticas, de privacidad y cómo gestionar el uso de la IA en el aula de manera responsable y productiva. Finalmente, se ofrecerán estrategias para integrar la IA de forma creativa y eficiente en la enseñanza universitaria."
+    },
+    {
+        nombre: "Recomendaciones para el uso responsable de la inteligencia artificial", 
+        grupo: "Grupo 10 (2024/25)",
+        ponente: "Rocío Romero, Subdirectora de investigación, transferencia y docencia del Centro de Investigación Tecnologías de Información y Comunicaciones",
+        fecha: "2025-04-24",
+        horaInicio: "12:00",
+        horaFin: "13:30",
+        lugar: "Aula A15",
+        descripcion: "La inteligencia artificial (IA) está actualmente en boca de todos. Muchos creen saber como usarla, otros tantos como funciona, pero muy pocos son realmente conscientes de lo que implica su uso dentro de la UGR. En esta charla analizaremos las reflexiones y aportaciones de más de 100 miembros de la comunidad universitaria sobre el uso responsable de la IA. Discutiremos las principales preguntas y preocupaciones sobre el uso de la IA en el ámbito académico y sus implicaciones éticas. Abordaremos temas como el sesgo algorítmico, la accesibilidad, la privacidad, la transparencia, la veracidad, la autonomía, la creatividad, y la responsabilidad en el uso de la IA. Esta charla proporcionará una visión integral y práctica sobre cómo la Universidad de Granada puede avanzar en la utilización responsable de la IA, aprovechando sus oportunidades y mitigando sus riesgos."
     }
+
 
 
     /*
