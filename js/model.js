@@ -749,7 +749,17 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula A15",
         descripcion: "La inteligencia artificial (IA) está actualmente en boca de todos. Muchos creen saber como usarla, otros tantos como funciona, pero muy pocos son realmente conscientes de lo que implica su uso dentro de la UGR. En esta charla analizaremos las reflexiones y aportaciones de más de 100 miembros de la comunidad universitaria sobre el uso responsable de la IA. Discutiremos las principales preguntas y preocupaciones sobre el uso de la IA en el ámbito académico y sus implicaciones éticas. Abordaremos temas como el sesgo algorítmico, la accesibilidad, la privacidad, la transparencia, la veracidad, la autonomía, la creatividad, y la responsabilidad en el uso de la IA. Esta charla proporcionará una visión integral y práctica sobre cómo la Universidad de Granada puede avanzar en la utilización responsable de la IA, aprovechando sus oportunidades y mitigando sus riesgos."
-    }
+    },
+    {
+        nombre: "Microcredenciales: Propuestas de formación para el empleo y la especialización", 
+        grupo: "Grupo 9 (2024/25)",
+        ponente: "Ana María García Campaña, Vicerrectora de Posgrado y Formación Permanente",
+        fecha: "2025-04-25",
+        horaInicio: "09:00",
+        horaFin: "11:00",
+        lugar: "Salón de Grados",
+        descripcion: "Sesión informativa sobre microbredenciales en la que intervendrán Ana María García Campaña (Vicerrectora de Posgrado y Formación Permanente), Vanessa Martos (Directora de Formación Permanente), Emilia Guadix (Directora de Títulos Propios)."
+    }    
 
 
 
