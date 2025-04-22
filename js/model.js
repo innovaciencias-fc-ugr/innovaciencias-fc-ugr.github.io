@@ -759,6 +759,16 @@ var actividades = [
         horaFin: "11:00",
         lugar: "Salón de Grados",
         descripcion: "Sesión informativa sobre microbredenciales en la que intervendrán Ana María García Campaña (Vicerrectora de Posgrado y Formación Permanente), Vanessa Martos (Directora de Formación Permanente), Emilia Guadix (Directora de Títulos Propios)."
+    },
+    {
+        nombre: "El cryptex como herramienta en gamificación", 
+        grupo: "Grupos 1 y 6 (2024/25)",
+        ponente: "Desirée Romero Molina  y Francisco Manuel Gómez Campos",
+        fecha: "2025-04-29",
+        horaInicio: "19:00",
+        horaFin: "20:30",
+        lugar: "Sala Alfonso Guiraum del Departamento de Estadística (planta 1 del Edificio de Matemáticas)",
+        descripcion: "Un cryptex es un cilindro con un mecanismo de combinación que protege un compartimento secreto en su interior. Solo se puede abrir alineando correctamente una serie de letras o símbolos en el orden correcto, como una cerradura de combinación. Es posible fabricar un cryptex con una impresora 3D pero, además, usando herramientas como Blender 3D, es posible adaptar el mecanismo para que sirva como un elemento de gamificación dentro de cualquier asignatura o materia. En la sesión veremos las bases del cryptex y cómo puede adaptarse el modelo 3D para propósitos docentes."
     }    
 
 
