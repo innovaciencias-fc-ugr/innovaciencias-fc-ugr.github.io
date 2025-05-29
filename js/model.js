@@ -769,8 +769,17 @@ var actividades = [
         horaFin: "20:30",
         lugar: "Sala Alfonso Guiraum del Departamento de Estadística (planta 1 del Edificio de Matemáticas)",
         descripcion: "Un cryptex es un cilindro con un mecanismo de combinación que protege un compartimento secreto en su interior. Solo se puede abrir alineando correctamente una serie de letras o símbolos en el orden correcto, como una cerradura de combinación. Es posible fabricar un cryptex con una impresora 3D pero, además, usando herramientas como Blender 3D, es posible adaptar el mecanismo para que sirva como un elemento de gamificación dentro de cualquier asignatura o materia. En la sesión veremos las bases del cryptex y cómo puede adaptarse el modelo 3D para propósitos docentes."
-    }    
-
+    },    
+    {
+        nombre: "Reunión final del grupo de trabajo Aula Invertida", 
+        grupo: "Grupo 5 (2024/25)",
+        ponente: "Marcos Moleón Paiz",
+        fecha: "2025-06-02",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A05",
+        descripcion: "En esta reunión, se expondrán diversas experiencias en la aplicación de la metodología docente denominada 'aula invertida' y se delinearán algunas recomendaciones e ideas para su futura aplicación por parte del profesorado de áreas técnicas y de ciencias."
+    }
 
 
     /*
