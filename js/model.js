@@ -779,6 +779,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A05",
         descripcion: "En esta reunión, se expondrán diversas experiencias en la aplicación de la metodología docente denominada 'aula invertida' y se delinearán algunas recomendaciones e ideas para su futura aplicación por parte del profesorado de áreas técnicas y de ciencias."
+    },
+    {
+        nombre: "Pautas para mejorar la orientación y tutoría del profesorado. Recursos para el estudiantado.",
+        grupo: "Formación Inicial",
+        ponente: "Sagrario López Ortega",
+        fecha: "2025-06-02",
+        horaInicio: "09:30",
+        horaFin: "11:30",
+        lugar: "Salónd de Grados",
+        descripcion: "Sagario López Ortega pertenece a la Unidad de Orientación Académica del Vicerrectorado de Estudiantes y Vida Universitaria."
     }
 
 
