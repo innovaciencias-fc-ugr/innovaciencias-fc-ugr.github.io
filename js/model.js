@@ -789,6 +789,16 @@ var actividades = [
         horaFin: "11:30",
         lugar: "Salónd de Grados",
         descripcion: "Sagario López Ortega pertenece a la Unidad de Orientación Académica del Vicerrectorado de Estudiantes y Vida Universitaria."
+    },
+    {
+        nombre: "Jornadas de Proyectos de Innovación Docente de la Facultad de Ciencias",
+        grupo: "Grupo 11 (2024/25)",
+        ponente: "Varios ponentes",
+        fecha: "2025-06-23",
+        horaInicio: "09:00",
+        horaFin: "19:00",
+        lugar: "A25",
+        descripcion: "Exposición e intercambio de experiencias de innovación docente en la Facultad de Ciencias."
     }
 
 
