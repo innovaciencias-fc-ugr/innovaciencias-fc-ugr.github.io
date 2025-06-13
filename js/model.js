@@ -796,7 +796,7 @@ var actividades = [
         ponente: "Varios ponentes",
         fecha: "2025-06-23",
         horaInicio: "09:00",
-        horaFin: "19:00",
+        horaFin: "14:30",
         lugar: "A25",
         descripcion: "Exposición e intercambio de experiencias de innovación docente en la Facultad de Ciencias."
     },    
