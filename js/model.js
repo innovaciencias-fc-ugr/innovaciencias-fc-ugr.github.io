@@ -796,9 +796,19 @@ var actividades = [
         ponente: "Varios ponentes",
         fecha: "2025-06-23",
         horaInicio: "09:00",
-        horaFin: "19:00",
+        horaFin: "14:30",
         lugar: "A25",
         descripcion: "Exposición e intercambio de experiencias de innovación docente en la Facultad de Ciencias."
+    },    
+    {
+        nombre: "Reunión final del grupo de metodologías activas", 
+        grupo: "Grupo 3 (2024/25)",
+        ponente: "M. Dolores Martínez Aires",
+        fecha: "2025-06-09",
+        horaInicio: "09:30",
+        horaFin: "11:30",
+        lugar: "Aula A26",
+        descripcion: "En esta reunión, se expondrán los distintos trabajos y experiencias realizadas en este grupo de trabajo."
     },
     {
         nombre: "Sesión Docentia",
