@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="Web del grupo Innova-Ciencias. Universidad de Granada" />
+        <meta name="author" content="Juan Antonio Villegas" />
+        <title>Innova-Ciencias</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/img/logo-ciencias.jpeg" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/mystyle.css" rel="stylesheet" />
+        <link href="css/polaroid.css" rel="stylesheet" />
+        <!-- Include Handlebars from a CDN -->
+        <script src="js/jquery-3.6.3.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/handlebars@latest/dist/handlebars.js"></script>
+        <script src="js/scripts.js" type="module"></script>
+        <!--Atkinson-->
+        <link href='https://fonts.googleapis.com/css?family=Atkinson Hyperlegible' rel='stylesheet'>
+    </head>
+    <body>
+        <header>
+            <img src="assets/img/portada-1.jpg" id="top-image" class="container-fluid">
+        </header>
+        
+        <!-- Responsive navbar-->
+        <nav class="navbar sticky-top navbar-expand-lg navbar-dark">
+            <div class="container px-5">
+                <a class="navbar-brand" href=".">Innova-Ciencias</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="/#inicio">Inicio</a></li>
+                        <li class="nav-item"><a class="nav-link" aria-current="page" href="/#materiales">Materiales</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/#TActividades">Actividades</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/#Quienes-somos">¿Quiénes somos?</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/#Contacto">Contacto</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container px-4 px-lg-5" id="content">
+            <!-- Heading Row-->
+            <!--<div class="row gx-4 gx-lg-5 align-items-center my-5">
+                <div class="col-lg-5"><img class="img-fluid rounded mb-4 mb-lg-0" src="https://media.istockphoto.com/id/452680217/photo/alhambra-in-winter.jpg?s=612x612&w=0&k=20&c=xmQDW-eeFofSQWwx503mcr7hfZrzRquooF06sb7rfVo=" alt="..." /></div>
+                <div class="col-lg-7">-->
+                    <h1 class="font-weight-light">Innova-Ciencias</h1>
+                    <h5>Equipo de Innovación Docente en Ciencias y Técnicas de la Facultad de Ciencias de la Universidad de Granada.</h5>
+                    <!--<a class="btn btn-primary" href="#!">Call to Action!</a>-->
+            <!--    </div>
+            </div>-->
+
+            <!-- Content Row-->
+            <div id="TActividades" class="target"></div>
+            <section id="tarjetasActividades">
+                <script id="actividades"  type="text/x-handlebars-template">
+                    <h1>Actividades</h1>
+                    <p>Además de las actividades anunciadas en esta sección, en el equipo de formación inicial se llevan a cabo ciclos de supervisión clínica con cada uno de los profesores noveles del equipo.</p>
+
+                    {{#each actividadesPasadas}}     
+                        <h3>{{nombre}} ({{grupo}})</h3> 
+                        <p><b>Fecha: </b> {{fechaCompleta}}, <b> hora: </b> 
+                        {{horaInicioCompleta}} - {{horaFinCompleta}}</p>
+                        <p><b>Ponente:</b> {{ponente}}</p>
+                        <p><b>Descripción:</b> {{descripcion}}</p>
+                    {{/each}}
+            </section>
+
+
+
+            <div id="Contacto" class="target"></div>
+            <h1>Contacto</h1>
+
+            <p>Para cualquier consulta o aclaración, contacte con los coordinadores o mentores (en el caso de formación inicial).</p>
+            <p>Si desea proponer una nueva actividad, rellene el siguiente <a href="https://docs.google.com/forms/d/e/1FAIpQLSeG0YZ1MOZyO_P5EvK0LtYkbk5YeHx3BIpyUELuaGIBfScjZQ/viewform?usp=sf_link" target="_blank">formulario</a> (hay que usar cuenta go.ugr.es).</p>
+
+
+        </div>
+        
+        <!-- Footer-->
+        <footer class="py-2">
+            <div class="container">
+                <!--<div class="row">
+                  <small class="col-4">
+                    <a href="./referencias.html" class="m-0 text-center text-white">Referencias</a>
+                  </small>
+                  <div class="col-4">
+                    <p class="m-0 text-center text-white"><small>Copyright &copy; (2023) Innova-Ciencias</small></p>
+                    
+                  </div>
+                  <div class="col-4 m-0 text-center text-white"><small>
+                    Facultad de Ciencias, Universidad de Granada</small>
+                  </div>
+                </div>
+              </div>
+            <div class="container px-4 px-lg-5">
+                <div class="row">
+                    
+                </div>-->
+                <p class="m-0 text-center text-white" ><small>Webmaster: <a href="https://jantoniovr.github.io/" >Juan Antonio Villegas Recio</a>. Mantenimiento: <a href="https://github.com/pedritomelenas">Pedro A. García Sánchez</a>. Imagen de la cabecera: <a href="https://micofood.es/workshop/">Workshop – MICOFOOD</a>.</small></cenbter></p>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <!--<script src="js/scripts.js"></script>-->
+    </body>
+</html>
