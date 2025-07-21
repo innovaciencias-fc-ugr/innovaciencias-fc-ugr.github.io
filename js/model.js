@@ -809,6 +809,16 @@ var actividades = [
         horaFin: "11:30",
         lugar: "Aula A26",
         descripcion: "En esta reunión, se expondrán los distintos trabajos y experiencias realizadas en este grupo de trabajo."
+    },
+    {
+        nombre: "Sesión Docentia",
+        grupo: "Grupo 9 (2024/25)",
+        ponente: "Diego P. Ruiz Padillo y José Antonio Herrera Cervera",
+        fecha: "2025-06-27",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A25",
+        descripcion: "En esta sesión se va mostrar el marco del programa Docentia y su génesis, y la implementación que se ha realizado en la Universidad de Granada para la evaluación docente del profesorado. Se mostrará la forma de trabajar de la  Comisión de Evaluación Docentia, que es una Comisión técnica encargada de llevar a cabo la valoración de cada una de las variables en las que se concretan las dimensiones del modelo de evaluación, contrastando las evidencias aportadas por los distintos agentes implicados, emitiendo el correspondiente informe final de evaluación y que será la encargada de responder a las solicitudes de revisión que puedan producirse."
     }
 
 
