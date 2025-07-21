@@ -59,12 +59,16 @@
                     <h1>Actividades</h1>
                     <p>Además de las actividades anunciadas en esta sección, en el equipo de formación inicial se llevan a cabo ciclos de supervisión clínica con cada uno de los profesores noveles del equipo.</p>
 
-                    {{#each actividadesPasadas}}     
-                        <h3>{{nombre}} ({{grupo}})</h3> 
+                    {{#each actividades}}     
+                        <h5>{{nombre}} ({{grupo}})</h5> 
                         <p><b>Fecha: </b> {{fechaCompleta}}, <b> hora: </b> 
-                        {{horaInicioCompleta}} - {{horaFinCompleta}}</p>
-                        <p><b>Ponente:</b> {{ponente}}</p>
-                        <p><b>Descripción:</b> {{descripcion}}</p>
+                        {{horaInicioCompleta}} - {{horaFinCompleta}}, lugar: {{lugar}}</p>
+                        {{#if ponente}}
+                            <p><b>Ponente:</b> {{ponente}}</p>
+                        {{/if}}
+                        {{#if descripcion}}
+                            <p><b>Descripción:</b> {{descripcion}}</p>
+                        {{/if}}
                     {{/each}}
             </section>
 

@@ -56,6 +56,7 @@ $(function () {
   
     // This is the default context, which is passed to the template
     var context = {
+        actividades: actividades,
         actividadesPasadas: actividadesPasadas,
         actividadesFuturas: actividadesFuturas,
         hayActividades: actividadesFuturas.length > 0,
