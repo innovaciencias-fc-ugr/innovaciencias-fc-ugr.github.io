@@ -819,6 +819,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A25",
         descripcion: "En esta sesión se va mostrar el marco del programa Docentia y su génesis, y la implementación que se ha realizado en la Universidad de Granada para la evaluación docente del profesorado. Se mostrará la forma de trabajar de la  Comisión de Evaluación Docentia, que es una Comisión técnica encargada de llevar a cabo la valoración de cada una de las variables en las que se concretan las dimensiones del modelo de evaluación, contrastando las evidencias aportadas por los distintos agentes implicados, emitiendo el correspondiente informe final de evaluación y que será la encargada de responder a las solicitudes de revisión que puedan producirse."
+    },
+    {
+        nombre: "Using generative AI to give feedback on formal proofs", 
+        grupo: "Grupo 10 (2024/25)",
+        ponente: "Marie-Amélie Lawn (Imperial College London, UK)",
+        fecha: "2025-10-31",
+        horaInicio: "12:30",
+        horaFin: "13:30",
+        lugar: "En línea (pueden solicitar enlace al coordinador)",
+        descripcion: "Can large language models improve feedback on undergraduate proof writing without lowering standards? I present a practical way to guide an LLM so its comments are focused, consistent, and aligned with course aims—while academic judgement stays with the instructor. In a pilot with first-year work, this approach surfaced common misconceptions early and shortened feedback cycles. I’ll outline the idea, note what helped and what failed, and discuss where AI can responsibly sit alongside human marking."
     }
 
 
