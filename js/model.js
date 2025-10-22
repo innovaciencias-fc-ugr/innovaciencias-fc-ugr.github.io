@@ -829,7 +829,18 @@ var actividades = [
         horaFin: "13:30",
         lugar: "En línea (pueden solicitar enlace al coordinador)",
         descripcion: "Can large language models improve feedback on undergraduate proof writing without lowering standards? I present a practical way to guide an LLM so its comments are focused, consistent, and aligned with course aims—while academic judgement stays with the instructor. In a pilot with first-year work, this approach surfaced common misconceptions early and shortened feedback cycles. I’ll outline the idea, note what helped and what failed, and discuss where AI can responsibly sit alongside human marking."
+    },
+    {
+        nombre: "Reunión inicial EDDU - InnovaCiencias", 
+        grupo: "Todos los grupos",
+        ponente: "David Blanco y Pedro A. García Sánchez",
+        fecha: "2025-10-30",
+        horaInicio: "09:00",
+        horaFin: "10:00",
+        lugar: "Aula G01",
+        descripcion: "Discusión sobre los grupos de trabajo, dinamizadores, planificación y actividades."
     }
+
 
 
     /*
