@@ -836,7 +836,7 @@ var actividades = [
         ponente: "David Blanco y Pedro A. García Sánchez",
         fecha: "2025-10-30",
         horaInicio: "09:00",
-        horaFin: "10:00",
+        horaFin: "11:00",
         lugar: "Aula G01",
         descripcion: "Discusión sobre los grupos de trabajo, dinamizadores, planificación y actividades."
     }
