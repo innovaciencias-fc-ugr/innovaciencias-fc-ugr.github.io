@@ -839,6 +839,16 @@ var actividades = [
         horaFin: "11:00",
         lugar: "Aula G01",
         descripcion: "Discusión sobre los grupos de trabajo, dinamizadores, planificación y actividades."
+    },
+    {
+        nombre: "Reunión inicial coordinación dinamizadores", 
+        grupo: "Todos los grupos",
+        ponente: "David Blanco y Pedro A. García Sánchez",
+        fecha: "2025-12-04",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "En línea (pueden solicitar enlace al coordinador)",
+        descripcion: "Puesta en marcha de los distintos grupos y dinámica de trabajo."
     }
 
 
