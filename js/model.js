@@ -849,6 +849,26 @@ var actividades = [
         horaFin: "13:00",
         lugar: "En línea (pueden solicitar enlace al coordinador)",
         descripcion: "Puesta en marcha de los distintos grupos y dinámica de trabajo."
+    },
+    {
+        nombre: "Reunión inicial grupo 1", 
+        grupo: "Grupo 1 (2025/26)",
+        ponente: "Desirée Romero Molina y Francisco David Carmona López",
+        fecha: "2025-12-11",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A10",
+        descripcion: "Reunión inicial grupo gamificación, escape room educativa."
+    },,
+    {
+        nombre: "Reunión inicial grupo 7", 
+        grupo: "Grupo 7 (2025/26)",
+        ponente: "María José Cáceres Granados",
+        fecha: "2025-12-18",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión inicial grupo docencia interdisciplinar."
     }
 
 
