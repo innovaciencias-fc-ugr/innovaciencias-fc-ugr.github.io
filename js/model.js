@@ -859,7 +859,7 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A10",
         descripcion: "Reunión inicial grupo gamificación, escape room educativa."
-    },,
+    },
     {
         nombre: "Reunión inicial grupo 7", 
         grupo: "Grupo 7 (2025/26)",
@@ -868,6 +868,16 @@ var actividades = [
         horaInicio: "12:00",
         horaFin: "13:00",
         lugar: "Aula A20",
+        descripcion: "Reunión inicial grupo docencia interdisciplinar."
+    },
+    {
+        nombre: "Reunión inicial grupo 9", 
+        grupo: "Grupo 9 (2025/26)",
+        ponente: "David Blanco",
+        fecha: "2025-12-16",
+        horaInicio: "11:00",
+        horaFin: "12:00",
+        lugar: "Aula G04",
         descripcion: "Reunión inicial grupo docencia interdisciplinar."
     }
 
