@@ -878,7 +878,17 @@ var actividades = [
         horaInicio: "11:00",
         horaFin: "12:00",
         lugar: "Aula G04",
-        descripcion: "Reunión inicial grupo docencia interdisciplinar."
+        descripcion: "Reunión inicial grupo inteligencia artifical generativa en la docencia."
+    },
+    {
+        nombre: "Reunión inicial grupo 5", 
+        grupo: "Grupo 5 (2025/26)",
+        ponente: "Mohamed Abdelaziz Mohamed y María Hernández Valladares",
+        fecha: "2025-12-16",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A10",
+        descripcion: "Reunión inicial grupo inclusión, diversidad y bienestar."
     }
 
 
