@@ -888,7 +888,7 @@ var actividades = [
         horaInicio: "12:00",
         horaFin: "14:00",
         lugar: "Aula A10",
-        descripcion: "Reunión inicial grupo inclusión, diversidad y bienestar."
+        descripcion: "Reunión inicial grupo inclusión, diversidad y bienestar e igualdad."
     }
 
 
