@@ -892,7 +892,7 @@ var actividades = [
     },
     {
         nombre: "Reunión inicial grupo 4", 
-        grupo: "Grupo 5 (2025/26)",
+        grupo: "Grupo 4 (2025/26)",
         ponente: "Pedro García Sánchez",
         fecha: "2026-01-08",
         horaInicio: "11:00",
