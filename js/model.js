@@ -889,6 +889,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A10",
         descripcion: "Reunión inicial grupo inclusión, diversidad y bienestar."
+    },
+    {
+        nombre: "Reunión inicial grupo 4", 
+        grupo: "Grupo 4 (2025/26)",
+        ponente: "Pedro García Sánchez",
+        fecha: "2026-01-08",
+        horaInicio: "11:00",
+        horaFin: "12:00",
+        lugar: "Aula A16",
+        descripcion: "Reunión inicial grupo 4 - creación de material docente."
     }
 
 
