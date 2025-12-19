@@ -903,7 +903,7 @@ var actividades = [
     {
         nombre: "IA  en docencia universitaria", 
         grupo: "Grupo 9 (2025/26)",
-        ponente: "Francisco Torralbo",
+        ponente: "Francisco Torralbo Torralbo",
         fecha: "2026-01-16",
         horaInicio: "10:00",
         horaFin: "12:00",
