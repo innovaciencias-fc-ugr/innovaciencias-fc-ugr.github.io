@@ -899,6 +899,16 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula A16",
         descripcion: "Reunión inicial grupo 4 - creación de material docente."
+    },
+    {
+        nombre: "IA  en docencia universitaria", 
+        grupo: "Grupo 9 (2025/26)",
+        ponente: "Francisco Torralbo Torralbo",
+        fecha: "2026-01-16",
+        horaInicio: "10:00",
+        horaFin: "12:00",
+        lugar: "Aula A06",
+        descripcion: "Charla introductoria sobre el uso de IA en la docencia universitaria."
     }
 
 
