@@ -909,6 +909,16 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula A06",
         descripcion: "Charla introductoria sobre el uso de IA en la docencia universitaria."
+    },
+    {
+        nombre: "Metodologías activas en docencia universitaria", 
+        grupo: "Grupo 2 (2025/26)",
+        ponente: "Almudena Rivadeneyra García",
+        fecha: "2026-02-04",
+        horaInicio: "10:00",
+        horaFin: "12:00",
+        lugar: "Por determinar",
+        descripcion: "Primera reunión del grupo 2 - metodologías activas en docencia universitaria."
     }
 
 
