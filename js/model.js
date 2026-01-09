@@ -921,7 +921,7 @@ var actividades = [
         descripcion: "Primera reunión del grupo 2 - metodologías activas en docencia universitaria."
     },
     {
-        nombre: "Reunión inicial grupo 9", 
+        nombre: "Seminario markdown", 
         grupo: "Grupo 4 (2025/26)",
         ponente: "Pedro A. García Sánchez",
         fecha: "2026-01-15",
