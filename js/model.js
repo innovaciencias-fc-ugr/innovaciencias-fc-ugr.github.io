@@ -931,7 +931,7 @@ var actividades = [
         descripcion: "Introducción al uso de markdown y su aplicación en la creación de material docente."
     },
     {
-        nombre: "Reunión inicial grupo 11", 
+        nombre: "Reunión inicial del grupo de divulgación", 
         grupo: "Grupo 11 (2025/26)",
         ponente: "Mohamed Abdelaziz y Félix Picazo",
         fecha: "2026-01-21",
@@ -939,6 +939,16 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Virtual, en el enlace: https://meet.google.com/eah-jcfv-gxb",
         descripcion: "Presentación del plan general de talleres: calendario, horarios, ponentes, temáticas y dinámica de trabajo."
+    },
+    {
+        nombre: "Segunda reunión del Grupo ¿Docencia Interdisciplinar? ", 
+        grupo: "Grupo 7",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-01-30",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión para encontrar posibles conexiones entre asignaturas que impartimos y proponer actividades interdisciplinares"
     }
 
 
