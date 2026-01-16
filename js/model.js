@@ -917,7 +917,7 @@ var actividades = [
         fecha: "2026-02-04",
         horaInicio: "10:00",
         horaFin: "12:00",
-        lugar: "Por determinar",
+        lugar: "A24",
         descripcion: "Primera reunión del grupo 2 - metodologías activas en docencia universitaria."
     },
     {
@@ -929,6 +929,16 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A15",
         descripcion: "Introducción al uso de markdown y su aplicación en la creación de material docente."
+    },
+    {
+        nombre: "Reunión inicial grupo 11", 
+        grupo: "Grupo 11 (2025/26)",
+        ponente: "Mohamed Abdelaziz y Félix Picazo",
+        fecha: "2026-01-21",
+        horaInicio: "11:00",
+        horaFin: "12:00",
+        lugar: "Virtual, en el enlace: https://meet.google.com/eah-jcfv-gxb",
+        descripcion: "Presentación del plan general de talleres: calendario, horarios, ponentes, temáticas y dinámica de trabajo."
     }
 
 
