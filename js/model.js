@@ -956,7 +956,7 @@ var actividades = [
         ponente: "María Hernández Valladares",
         fecha: "2026-01-20",
         horaInicio: "10:00",
-        horaFin: "11:00",
+        horaFin: "11:30",
         lugar: "Aula A12",
         descripcion: "Reunión del subgrupo para comenzar a trabajar sobre las tareas."
     }
