@@ -949,8 +949,17 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A20",
         descripcion: "Reunión para encontrar posibles conexiones entre asignaturas que impartimos y proponer actividades interdisciplinares"
+    },
+    {
+        nombre: "Reunión del grupo de trabajo 5.3, NEAEs/Bienestar", 
+        grupo: "Grupo 5, subgrupo 5.3",
+        ponente: "María Hernández Valladares",
+        fecha: "2026-01-20",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula A12",
+        descripcion: "Reunión del subgrupo para comenzar a trabajar sobre las tareas."
     }
-
 
 
     /*
