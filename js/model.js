@@ -911,14 +911,24 @@ var actividades = [
         descripcion: "Charla introductoria sobre el uso de IA en la docencia universitaria."
     },
     {
-        nombre: "Metodologías activas en docencia universitaria", 
+        nombre: "Experiencias docentes de metodologías activas en las aulas", 
         grupo: "Grupo 2 (2025/26)",
         ponente: "Almudena Rivadeneyra García",
         fecha: "2026-02-04",
         horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "A24",
+        descripcion: "Algunos miembros del grupo compartirán cómo están aplicando distintas metodologías activas en sus clases y qué resultados están observando."
+    },
+    {
+        nombre: "Metodologías activas en la enseñanza de las ciencias", 
+        grupo: "Grupo 2 (2025/26)",
+        ponente: "Araceli García Yeguas",
+        fecha: "2026-02-04",
+        horaInicio: "11:00",
         horaFin: "12:00",
         lugar: "A24",
-        descripcion: "Primera reunión del grupo 2 - metodologías activas en docencia universitaria."
+        descripcion: "Charla impartida por la profesora Araceli García Yeguas, del departamento Didáctica de las Ciencias Experimentales."
     },
     {
         nombre: "Seminario markdown", 
