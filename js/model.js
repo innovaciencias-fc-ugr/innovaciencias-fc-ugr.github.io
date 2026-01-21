@@ -969,6 +969,16 @@ var actividades = [
         horaFin: "11:30",
         lugar: "Aula A12",
         descripcion: "Reunión del subgrupo para comenzar a trabajar sobre las tareas."
+    },
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.1, Recopilación y actualización de normativa y protocolos UGR", 
+        grupo: "Grupo 5, subgrupo 5.1",
+        ponente: "Alberto Martín Molina",
+        fecha: "2026-01-22",
+        horaInicio: "13:00",
+        horaFin: "14:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión inicial del subgrupo."
     }
 
 
