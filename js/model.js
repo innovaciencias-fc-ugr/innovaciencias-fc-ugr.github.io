@@ -979,8 +979,17 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A20",
         descripcion: "Reunión inicial del subgrupo."
+    },
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
+        grupo: "Grupo 5, subgrupo 5.2",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-02-04",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión inicial del subgrupo."
     }
-
 
     /*
     // Plantilla para próximas actividades
