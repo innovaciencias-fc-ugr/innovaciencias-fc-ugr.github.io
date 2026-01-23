@@ -989,6 +989,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A20",
         descripcion: "Reunión inicial del subgrupo."
+    }, 
+    {
+        nombre: "Quartificando tus cuadernos de jupyter y markdown", 
+        grupo: "Grupo 4 (2025/26)",
+        ponente: "Pedro A. García Sánchez",
+        fecha: "2026-01-30",
+        horaInicio: "10:30",
+        horaFin: "12:00",
+        lugar: "Aula A13",
+        descripcion: "Uso de quarto para crear apuntes, notas y páginas web reciclando cuadernos de jypyter y markdown. Si el tiempo lo permite, comentaremos cómo hacer transparencias con quarto y markdown."
     }
 
     /*
