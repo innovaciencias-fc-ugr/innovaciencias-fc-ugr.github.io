@@ -999,6 +999,26 @@ var actividades = [
         horaFin: "12:00",
         lugar: "Aula A13",
         descripcion: "Uso de quarto para crear apuntes, notas y páginas web reciclando cuadernos de jypyter y markdown. Si el tiempo lo permite, comentaremos cómo hacer transparencias con quarto y markdown."
+    },
+    {
+        nombre: "Taller: Introducción a técnicas de expresión no verbal. (Primera Sesión)", 
+        grupo: "Grupo 11 (2025/26), Divulgación Científica",
+        ponente: "María Isabel Garrido-Asenjo",
+        fecha: "2026-02-04",
+        horaInicio: "11:00",
+        horaFin: "13:00",
+        lugar: "Sala de Audiovisuales de la Faculta de Ciencias",
+        descripcion: "Primera sesión del taller sobre Introducción a técnicas de expresión no verbal a cargo de la profesora de teatro María Isabel Garrido-Asenjo, y en él se abordarán técnicas para el uso del espacio y la presencia, el uso del movimiento como recurso y de la voz y el cuerpo como canales de comunicación, así como el empleo del silencio en comunicación."
+    },
+    {
+        nombre: "Taller: Introducción a técnicas de expresión no verbal. (Segunda Sesión)", 
+        grupo: "Grupo 11 (2025/26), Divulgación Científica",
+        ponente: "María Isabel Garrido-Asenjo",
+        fecha: "2026-02-06",
+        horaInicio: "11:00",
+        horaFin: "13:00",
+        lugar: "Sala de Audiovisuales de la Faculta de Ciencias",
+        descripcion: "Segunda sesión del taller sobre Introducción a técnicas de expresión no verbal a cargo de la profesora de teatro María Isabel Garrido-Asenjo, y en él se abordarán técnicas para el uso del espacio y la presencia, el uso del movimiento como recurso y de la voz y el cuerpo como canales de comunicación, así como el empleo del silencio en comunicación."
     }
 
     /*
