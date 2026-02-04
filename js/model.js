@@ -910,6 +910,7 @@ var actividades = [
         lugar: "Aula A06",
         descripcion: "Charla introductoria sobre el uso de IA en la docencia universitaria."
     },
+    /*
     {
         nombre: "Experiencias docentes de metodologías activas en las aulas", 
         grupo: "Grupo 2 (2025/26)",
@@ -920,14 +921,15 @@ var actividades = [
         lugar: "A24",
         descripcion: "Algunos miembros del grupo compartirán cómo están aplicando distintas metodologías activas en sus clases y qué resultados están observando."
     },
+    */
     {
         nombre: "Metodologías activas en la enseñanza de las ciencias", 
         grupo: "Grupo 2 (2025/26)",
         ponente: "Araceli García Yeguas",
-        fecha: "2026-02-04",
-        horaInicio: "11:00",
-        horaFin: "12:00",
-        lugar: "A24",
+        fecha: "2026-02-12",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "A14",
         descripcion: "Charla impartida por la profesora Araceli García Yeguas, del departamento Didáctica de las Ciencias Experimentales."
     },
     {
