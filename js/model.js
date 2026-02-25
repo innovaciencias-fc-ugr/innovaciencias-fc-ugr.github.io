@@ -1059,6 +1059,16 @@ var actividades = [
         horaFin: "13:30",
         lugar: "C12",
         descripcion: "Taller sobre Design Thinking impartida por  Ana Isabel Rodríguez Martínez del equipo de UGR emprendedora."
+    },
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.2, Mapeo de espacios adaptados", 
+        grupo: "Grupo 5, subgrupo 5.2",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-04-08",
+        horaInicio: "10:30",
+        horaFin: "11:30",
+        lugar: "Aula MS2",
+        descripcion: "Reunión de seguimiento del subgrupo."
     }
     /*
     // Plantilla para próximas actividades
