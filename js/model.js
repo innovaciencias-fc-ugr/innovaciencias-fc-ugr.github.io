@@ -1069,6 +1069,16 @@ var actividades = [
         horaFin: "11:30",
         lugar: "Aula MS2",
         descripcion: "Reunión de seguimiento del subgrupo."
+    },
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.3, NEAE/Bienestar", 
+        grupo: "Grupo 5, subgrupo 5.3",
+        ponente: "María Hernández Valladares",
+        fecha: "2026-03-12",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión donde se comentarán los resultados de las ecuestas a estudiantes con NEAE y se propondrán actividades a partir de estos resultados."
     }
     /*
     // Plantilla para próximas actividades
