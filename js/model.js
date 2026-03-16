@@ -1054,7 +1054,7 @@ var actividades = [
         nombre: "Desing Thinking", 
         grupo: "Grupo 2 (2025/26)",
         ponente: "Ana Isabel Rodríguez Martínez",
-        fecha: "2026-03-13",
+        fecha: "2026-03-19",
         horaInicio: "11:30",
         horaFin: "13:30",
         lugar: "C12",
@@ -1079,7 +1079,27 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A20",
         descripcion: "Reunión donde se comentarán los resultados de las ecuestas a estudiantes con NEAE y se propondrán actividades a partir de estos resultados."
-    }
+    },
+    {
+        nombre: "Taller de creación de material audiovisual y cartas de poder para gamificación", 
+        grupo: "Grupo 1 (2025/26)",
+        ponente: "Desirée Romero Molina y Francisco David Carmona López",
+        fecha: "2026-03-19",
+        horaInicio: "10:00",
+        horaFin: "12:00",
+        lugar: "Aula C41",
+        descripcion: "Taller sobre creación de material audiovisual y cartas de poder para la gamificación de la docencia."}
+    },
+    {
+        nombre: "Taller para la creación de cuestionarios en quarto", 
+        grupo: "Grupo 4 (2025/26)",
+        ponente: "Pedro A. García Sánchez",
+        fecha: "2026-03-20",
+        horaInicio: "9:00",
+        horaFin: "11:00",
+        lugar: "Aula A11",
+        descripcion: "Taller que tratará sobre varias posibilidades para hacer cuestionarios en quarto: h5p con Lumi, quizdown, surveyjs, jupyterquiz"}
+    }    
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
