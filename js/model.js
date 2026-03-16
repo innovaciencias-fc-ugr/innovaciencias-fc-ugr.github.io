@@ -1095,7 +1095,7 @@ var actividades = [
         grupo: "Grupo 4 (2025/26)",
         ponente: "Pedro A. García Sánchez",
         fecha: "2026-03-20",
-        horaInicio: "9:00",
+        horaInicio: "09:00",
         horaFin: "11:00",
         lugar: "Aula A11",
         descripcion: "Taller que tratará sobre varias posibilidades para hacer cuestionarios en quarto: h5p con Lumi, quizdown, surveyjs, jupyterquiz"
