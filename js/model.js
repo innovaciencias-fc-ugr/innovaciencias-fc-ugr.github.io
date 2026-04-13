@@ -1099,7 +1099,27 @@ var actividades = [
         horaFin: "11:00",
         lugar: "Aula A11",
         descripcion: "Taller que tratará sobre varias posibilidades para hacer cuestionarios en quarto: h5p con Lumi, quizdown, surveyjs, jupyterquiz"
-    }    
+    },
+    {
+        nombre: "Talleres gamificación/escape (INNOVACIENCIAS): formato físico", 
+        grupo: "Grupo 1 (2025/26)",
+        ponente: "Desirée Romero Molina",
+        fecha: "2026-04-14",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Bibliomaker (Biblioteca Facultad de Ciencias)",
+        descripcion: "Taller que tratará sobre la reación de material docente para gamificación en formato físico. Se mostrarán ejemplos de material creado para gamificación y escape room educativa, y se propondrán ideas para crear material de este tipo para distintas asignaturas."
+    },
+    {
+        nombre: "Reunión del subgrupo de trabajo 5.3, NEAE/Bienestar", 
+        grupo: "Grupo 5, subgrupo 5.3 (2025/26)",
+        ponente: "María Hernández Valladares",
+        fecha: "2026-04-15",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A15",
+        descripcion: "Reunión del seguimiento del subgrupo, en el que se estudiarán los resultados de las encuestas realizadas a estudiantes con NEAE y se propondrán actividades a partir de estos resultados."
+    }   
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
