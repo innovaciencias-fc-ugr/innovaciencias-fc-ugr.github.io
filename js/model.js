@@ -1139,7 +1139,17 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A14",
         descripcion: "Se abordarán los aspectos formales de las prácticas Erasmus+ (requisitos, instituciones en el extranjero, documentos para solicitud, etc.) y dónde se encuadra esta convocatoria dentro del plan de internacionalización de la UGR."
-    }   
+    },
+    {
+        nombre: "Markdown. Exportar e interactuar con otros formatos. Entornos colaborativos.", 
+        grupo: "Grupo 4 (2025/26)",
+        ponente: "Pedro A. García Sánchez",
+        fecha: "2026-05-15",
+        horaInicio: "09:00",
+        horaFin: "12:00",
+        lugar: "Aula A04",
+        descripcion: "Dentro de la acción formativa de Creación de Material Docente en LaTeX, hablaremos de cómo crear bancos de preguntas en moodle."
+    }
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
