@@ -1129,6 +1129,16 @@ var actividades = [
         horaFin: "13:30",
         lugar: "Aula A14",
         descripcion: "Primera sesión sobre cómo articular acciones de cooperación a través de propuestas para la realización de TFGs o TFMs y oportunidades, convocatorias y características de proyectos de cooperación en la UGR."
+    },
+    {
+        nombre: "Opciones de movilidad del tipo Erasmus +", 
+        grupo: "Grupo 6 (2025/26)",
+        ponente: "Belén Feixas Laraño y Pedro J. García Moreno",
+        fecha: "2026-05-14",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Aula A14",
+        descripcion: "Se abordarán los aspectos formales de las prácticas Erasmus+ (requisitos, instituciones en el extranjero, documentos para solicitud, etc.) y dónde se encuadra esta convocatoria dentro del plan de internacionalización de la UGR."
     }   
     /*
     // Plantilla para próximas actividades
