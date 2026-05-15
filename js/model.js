@@ -1159,6 +1159,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Seminario de Zoología",
         descripcion: "Se tratarán metodologías de años anteriores, nueva información y posibles acciones de mejora."
+    },
+    {
+        nombre: "Reunión final del grupo Inclusión, diversidad y bienestar", 
+        grupo: "Grupo 5 (2025/26)",
+        ponente: "María Hernández Valladares",
+        fecha: "2026-05-26",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A16",
+        descripcion: "Reunión final para exponer los trabajos/tareas que realizados en los 3 subgrupos."
     }
     /*
     // Plantilla para próximas actividades
