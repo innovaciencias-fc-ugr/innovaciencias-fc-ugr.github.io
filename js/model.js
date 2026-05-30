@@ -1169,6 +1169,26 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A16",
         descripcion: "Reunión final para exponer los trabajos/tareas que realizados en los 3 subgrupos."
+    },
+    {
+        nombre: "Presentación de experiencias docentes de metodologías activas en las aulas", 
+        grupo: "Grupo 2 (2025/26)",
+        ponente: "Almudena Rivadeneyra García",
+        fecha: "2026-06-17",
+        horaInicio: "11:30",
+        horaFin: "13:00",
+        lugar: "A15",
+        descripcion: "Se compartirán iniciativas realizadas o que se quieran realizar en próximos cursos. La sesión se plantea como un foro abierto en el que cada uno dispondremos de unos 5 min para presentar sus actividades"
+    },
+    {
+        nombre: "Reunión final del Grupo ¿Docencia Interdisciplinar? ", 
+        grupo: "Grupo 7",
+        ponente: "María José Cáceres Granados",
+        fecha: "2026-06-30",
+        horaInicio: "13:00",
+        horaFin: "14:00",
+        lugar: "Aula A20",
+        descripcion: "Reunión final del grupo para resumir la actividad realizada en este grupo"
     }
     /*
     // Plantilla para próximas actividades
