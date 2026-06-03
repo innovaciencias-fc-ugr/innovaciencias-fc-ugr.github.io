@@ -1184,12 +1184,14 @@ var actividades = [
         nombre: "Reunión final del Grupo ¿Docencia Interdisciplinar? ", 
         grupo: "Grupo 7",
         ponente: "María José Cáceres Granados",
-        fecha: "2026-06-30",
+        fecha: "2026-06-01",
         horaInicio: "13:00",
         horaFin: "14:00",
         lugar: "Aula A20",
         descripcion: "Reunión final del grupo para resumir la actividad realizada en este grupo"
-    }
+    },
+    {
+    
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
