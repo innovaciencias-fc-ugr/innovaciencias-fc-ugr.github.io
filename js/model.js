@@ -1191,6 +1191,15 @@ var actividades = [
         descripcion: "Reunión final del grupo para resumir la actividad realizada en este grupo"
     },
     {
+        nombre: "Jornada Proyectos Innovación Docente - Ciencias 2026", 
+        grupo: "Grupo 10 (2025/26)",
+        ponente: "Pedro A. García Sánchez",
+        fecha: "2026-06-08",
+        horaInicio: "09:00",
+        horaFin: "18:30",
+        lugar: "Aula A21",
+        descripcion: "https://sl.ugr.es/JornadaPIDCiencias2026 Jornada de presentación de los proyectos de innovación docente realizados en el curso 2025/26 en la Facultad de Ciencias."
+    },
     
     /*
     // Plantilla para próximas actividades

@@ -7,6 +7,24 @@
 import { actividades } from "./model.js";
 import { dateString, timeString } from "./dates.js";
 
+function convertirUrlsEnEnlaces(texto) {
+    if (typeof texto !== "string") return texto;
+    if (texto.includes("<")) return texto;
+
+    return texto.replace(
+        /(https?:\/\/[^\s<]+)/g,
+        '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>'
+    );
+}
+
+function descripcionCortaSegura(texto, maxLength = 300) {
+    if (typeof texto !== "string") return texto;
+
+    const textoSinHtml = texto.replace(/<[^>]*>/g, "");
+    const textoCorto = textoSinHtml.substring(0, maxLength);
+    return convertirUrlsEnEnlaces(textoCorto);
+}
+
 $(function () {
     // Grab the template script
     var theTemplateScript = $("#actividades").html();
@@ -36,8 +54,11 @@ $(function () {
         }
 
         act["fechaCompleta"] = dateString(act["fecha"])
-        if (act["descripcion"] != undefined && act["descripcion"].length > 1) 
-            act["descripcionCorta"] = act["descripcion"].substring(0,300)
+        if (act["descripcion"] != undefined && act["descripcion"].length > 1) {
+            const descripcionOriginal = act["descripcion"]
+            act["descripcion"] = convertirUrlsEnEnlaces(descripcionOriginal)
+            act["descripcionCorta"] = descripcionCortaSegura(descripcionOriginal, 300)
+        }
         else
             act["descripcion"] = undefined
 
