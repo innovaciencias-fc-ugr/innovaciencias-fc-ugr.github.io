@@ -1200,7 +1200,16 @@ var actividades = [
         lugar: "Aula A21",
         descripcion: "https://sl.ugr.es/JornadaPIDCiencias2026 Jornada de presentación de los proyectos de innovación docente realizados en el curso 2025/26 en la Facultad de Ciencias."
     },
-    
+    {
+        nombre: "Reunión final del grupo de creación de material docente", 
+        grupo: "Grupo 4 (2025/26)",
+        ponente: "Miembros del grupo",
+        fecha: "2026-06-09",
+        horaInicio: "12:00",
+        horaFin: "14:00",
+        lugar: "Aula A15",
+        descripcion: "Presentación de los trabajos realizados en el grupo de creación de material docente, con especial atención a las herramientas y recursos que se han mostrado en las distintas sesiones formativas."
+    }
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
