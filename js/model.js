@@ -1209,6 +1209,26 @@ var actividades = [
         horaFin: "14:00",
         lugar: "Aula A15",
         descripcion: "Presentación de los trabajos realizados en el grupo de creación de material docente, con especial atención a las herramientas y recursos que se han mostrado en las distintas sesiones formativas."
+    },
+    {
+        nombre: "Reunión inicial del crupo 2026-27", 
+        grupo: "Todos los grupos",
+        ponente: "Pedro A. García Sánchez y David Blanco",
+        fecha: "2026-09-10",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula G08",
+        descripcion: "Reunión inicial del curso 2026-27 para recordar como funciona InnovaCiencias, realizar una liste inicial de los grupos para el curo y los posibles dinamizadores."
+    },
+    {
+        nombre: "Reunión inicial de dinamizadores", 
+        grupo: "Todos los grupos",
+        ponente: "Pedro A. García Sánchez y David Blanco",
+        fecha: "2026-10-08",
+        horaInicio: "12:20",
+        horaFin: "13:00",
+        lugar: "Sala de reuniones del decanato",
+        descripcion: "Puesta en marcha de los distintos grupos y dinámica de trabajo."
     }
     /*
     // Plantilla para próximas actividades
