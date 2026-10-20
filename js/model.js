@@ -1213,7 +1213,7 @@ var actividades = [
     {
         nombre: "Reunión inicial del crupo 2026-27", 
         grupo: "Todos los grupos",
-        ponente: "Pedro A. García Sánchez y David Blanco",
+        ponentes: "Pedro A. García Sánchez y David Blanco",
         fecha: "2026-09-10",
         horaInicio: "10:00",
         horaFin: "11:00",
@@ -1223,12 +1223,22 @@ var actividades = [
     {
         nombre: "Reunión inicial de dinamizadores", 
         grupo: "Todos los grupos",
-        ponente: "Pedro A. García Sánchez y David Blanco",
+        ponentes: "Pedro A. García Sánchez y David Blanco",
         fecha: "2026-10-08",
         horaInicio: "12:20",
         horaFin: "13:00",
         lugar: "Sala de reuniones del decanato",
         descripcion: "Puesta en marcha de los distintos grupos y dinámica de trabajo."
+    },
+    {
+        nombre: "Reunión inicial de Gamificación", 
+        grupo: "Grupo 1, Gamificación (2026/27)",
+        ponentes: "Desirée Romero Molina y David Carmona López",
+        fecha: "2026-10-22",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "A05",
+        descripcion: "Primera reunión de presentación, donde se tratará lo que se ha hecho otros años en este grupo. También se hablará de qué se puede hacer las próximas sesiones, qué temas serían de interés, etc."
     }
     /*
     // Plantilla para próximas actividades
