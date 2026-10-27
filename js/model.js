@@ -1239,6 +1239,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "A05",
         descripcion: "Primera reunión de presentación, donde se tratará lo que se ha hecho otros años en este grupo. También se hablará de qué se puede hacer las próximas sesiones, qué temas serían de interés, etc."
+    },
+    {
+        nombre: "Reunión inicial de Inclusión, diversidad y bienestar", 
+        grupo: "Grupo 5, Inclusión, diversidad y bienestar (2026/27)",
+        ponentes: "María Hernández Valladares",
+        fecha: "2026-11-05",
+        horaInicio: "13:00",
+        horaFin: "14:30",
+        lugar: "A22",
+        descripcion: "En esta reunión, intentaremos pensar y crear grupos de trabajos para actividades relacionadas con Inclusión, Diversidad y Bienestar. Se revisarán las líneas de trabajo de la edición anterior y se propondrán nuevas ideas."
     }
     /*
     // Plantilla para próximas actividades
