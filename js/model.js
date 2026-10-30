@@ -1249,6 +1249,16 @@ var actividades = [
         horaFin: "14:30",
         lugar: "A22",
         descripcion: "En esta reunión, intentaremos pensar y crear grupos de trabajos para actividades relacionadas con Inclusión, Diversidad y Bienestar. Se revisarán las líneas de trabajo de la edición anterior y se propondrán nuevas ideas."
+    },
+    {
+        nombre: "Reunión inicial de Creación de Material Docente", 
+        grupo: "Grupo 4, Creación de Material Docente (2026/27)",
+        ponentes: "Pedro A. García Sánchez",
+        fecha: "2026-11-05",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "A16",
+        descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
     }
     /*
     // Plantilla para próximas actividades
