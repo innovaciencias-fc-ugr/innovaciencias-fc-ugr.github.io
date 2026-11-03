@@ -1259,6 +1259,16 @@ var actividades = [
         horaFin: "11:00",
         lugar: "A16",
         descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
+    },
+    {
+        nombre: "Reunión inicial de Herramientas y estrategias evalucaión", 
+        grupo: "Grupo 10, Herramientas y estrategias de evaluación (2026/27)",
+        ponentes: "Marcos Moleón Paiz",
+        fecha: "2026-11-25",
+        horaInicio: "13:00",
+        horaFin: "14:00",
+        lugar: "A12",
+        descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
     }
     /*
     // Plantilla para próximas actividades
