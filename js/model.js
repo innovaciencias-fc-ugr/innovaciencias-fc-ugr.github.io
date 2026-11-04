@@ -1261,7 +1261,7 @@ var actividades = [
         descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
     },
     {
-        nombre: "Reunión inicial de Herramientas y estrategias evalucaión", 
+        nombre: "Reunión inicial de Herramientas y estrategias evaluación", 
         grupo: "Grupo 10, Herramientas y estrategias de evaluación (2026/27)",
         ponentes: "Marcos Moleón Paiz",
         fecha: "2026-11-25",
@@ -1270,6 +1270,19 @@ var actividades = [
         lugar: "A12",
         descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
     }
+    /*,
+    {
+        nombre: "Experiencias en el aula con IA generativa", 
+        grupo: "Grupo 7, Inteligencia artificial generativa en la docencia",
+        ponente: "",
+        fecha: "2026-11-27",
+        horaInicio: "11:00",
+        horaFin: "13:00",
+        lugar: "Aula A16",
+        descripcion: "<descripcion>"
+    }
+
+    */
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada
