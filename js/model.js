@@ -1269,7 +1269,18 @@ var actividades = [
         horaFin: "14:00",
         lugar: "A12",
         descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
+    },
+    {
+        nombre: "Reunión inicial del grupo de Docencia Interdisciplinar", 
+        grupo: "Grupo 6, Docencia Interdisciplinar (2026/27)",
+        ponentes: "María José Cáceres Granados",
+        fecha: "2026-11-10",
+        horaInicio: "12:00",
+        horaFin: "13:00",
+        lugar: "Biblioteca de Matemática Aplicada",
+        descripcion: "Primera reunión inicial del grupo de Docencia Interdisciplinar. La reunión será en la Biblioteca de Matemática Aplicada, que se encuentra en la segunda planta del Edificio de Matemáticas, subiendo las escaleras a la izquierda."
     }
+
     /*,
     {
         nombre: "Experiencias en el aula con IA generativa", 
