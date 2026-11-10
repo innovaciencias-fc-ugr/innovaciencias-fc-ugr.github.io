@@ -1279,21 +1279,17 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Biblioteca de Matemática Aplicada",
         descripcion: "Primera reunión inicial del grupo de Docencia Interdisciplinar. La reunión será en la Biblioteca de Matemática Aplicada, que se encuentra en la segunda planta del Edificio de Matemáticas, subiendo las escaleras a la izquierda."
-    }
-
-    /*,
+    },
     {
         nombre: "Experiencias en el aula con IA generativa", 
         grupo: "Grupo 7, Inteligencia artificial generativa en la docencia",
-        ponente: "",
+        ponentes: "Rafael Huertas Roa, Manuela Lechuga Villena, Eva Valero Benito, Miguel Ortega Titos, Juan Manuel Medina Sánchez",
         fecha: "2026-11-27",
-        horaInicio: "11:00",
-        horaFin: "13:00",
+        horaInicio: "12:00",
+        horaFin: "14:00",
         lugar: "Aula A16",
-        descripcion: "<descripcion>"
+        descripcion: "Experiencias reales aplicando la IA generativa en la docencia:<br> - Rafael Huertas Roa. Generación de contenido mediante IA. Asistente virtual. <br>- Manuela Lechuga Villena. Generación de artefacto digital evaluable para un caso de uso.<br>- Eva Valero Benito. Aplicación App Script para tareas de trabajo de clase y corrección.<br>- Miguel Ortega Titos. Creación de Gemas y Notebooks para asignaturas. <br>- Juan Manuel Medina Sánchez. Diseño de apuntes, relaciones de problemas y exámenes mediante IA generativa."
     }
-
-    */
     /*
     // Plantilla para próximas actividades
     // No olvidar poner la coma después de la última actividad publicada

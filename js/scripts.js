@@ -20,7 +20,7 @@ function convertirUrlsEnEnlaces(texto) {
 function descripcionCortaSegura(texto, maxLength = 300) {
     if (typeof texto !== "string") return texto;
 
-    const textoSinHtml = texto.replace(/<[^>]*>/g, "");
+    const textoSinHtml = texto.replace(/<(?!br\s*\/?)[^>]*>/g, "");
     const textoCorto = textoSinHtml.substring(0, maxLength);
     return convertirUrlsEnEnlaces(textoCorto);
 }
