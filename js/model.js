@@ -1289,6 +1289,16 @@ var actividades = [
         horaFin: "13:00",
         lugar: "Aula A16",
         descripcion: "Experiencias reales aplicando la IA generativa en la docencia:<br> - Rafael Huertas Roa. Generación de contenido mediante IA. Asistente virtual. <br>- Manuela Lechuga Villena. Generación de artefacto digital evaluable para un caso de uso.<br>- Eva Valero Benito. Aplicación App Script para tareas de trabajo de clase y corrección.<br>- Miguel Ortega Titos. Creación de Gemas y Notebooks para asignaturas. <br>- Juan Manuel Medina Sánchez. Diseño de apuntes, relaciones de problemas y exámenes mediante IA generativa. <br>"
+    },
+    {
+        nombre: "Reunión inicial de metodologías activas", 
+        grupo: "Grupo 2, Metodologías activas (2026/27)",
+        ponentes: "Mª Dolores Martínez Aires",
+        fecha: "2026-12-10",
+        horaInicio: "11:30",
+        horaFin: "13:30",
+        lugar: "A03",
+        descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
     }
     /*
     // Plantilla para próximas actividades
