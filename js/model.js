@@ -1299,6 +1299,16 @@ var actividades = [
         horaFin: "13:30",
         lugar: "A03",
         descripcion: "Primera reunión inicial para hablar de las actividades que se realizarán a lo largo del curso."
+    },
+    {
+        nombre: "Taller de Markdown", 
+        grupo: "Grupo 4, Creación de Material Docente (2026/27)",
+        ponente: "Pedro A. García Sánchez",
+        fecha: "2026-11-26",
+        horaInicio: "10:00",
+        horaFin: "11:00",
+        lugar: "Aula A14",
+        descripcion: "Taller de introducción a Markdown y su uso en la creación de material docente. Se explicarán las bases de Markdown, cómo crear documentos y cómo exportarlos a distintos formatos."
     }
     /*
     // Plantilla para próximas actividades
