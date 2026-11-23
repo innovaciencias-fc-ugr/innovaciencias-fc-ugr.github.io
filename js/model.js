@@ -1211,7 +1211,7 @@ var actividades = [
         descripcion: "Presentación de los trabajos realizados en el grupo de creación de material docente, con especial atención a las herramientas y recursos que se han mostrado en las distintas sesiones formativas."
     },
     {
-        nombre: "Reunión inicial del crupo 2026-27", 
+        nombre: "Reunión inicial del grupo 2026-27", 
         grupo: "Todos los grupos",
         ponentes: "Pedro A. García Sánchez y David Blanco",
         fecha: "2026-09-10",
