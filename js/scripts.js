@@ -77,7 +77,7 @@ $(function () {
   
     // This is the default context, which is passed to the template
     var context = {
-        actividades: actividades,
+        actividades: actividades.slice().reverse(),
         actividadesPasadas: actividadesPasadas,
         actividadesFuturas: actividadesFuturas,
         hayActividades: actividadesFuturas.length > 0,
@@ -113,6 +113,5 @@ $(function () {
 
 
   });
-
 
 
